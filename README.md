@@ -4,16 +4,18 @@ A MelonLoader mod for **Data Center** that adds a full DCIM (Data Center Infrast
 
 ## Features
 
-- **Dashboard** â€” live overview of your data center
-- **Floor Map** â€” visual rack layout with live refresh, filters, multi-select, customer health outlines, and EOL color indicators
-- **Device List & Search** â€” find any server or switch with live EOL countdown timers
-- **Device Config** â€” remote power, IP assignment, and LACP control
-- **Customer IP View** â€” see all IPs assigned per customer
-- **Rack Diagram** â€” per-rack slot view with mini shop to buy and install devices directly
-- **Buy Configured Switches** â€” configure SFP modules per port before purchasing (QSFP+, SFP28, SFP+ Fiber, SFP+ RJ45)
-- **Rack Colors** â€” HSV color picker with live hex input and 8 persistent favorites
-- **3D Rack Labels** â€” color-coded labels visible in the world
-- **Warning Sign Suppression** â€” toggle to hide warning signs globally
+- **Dashboard** — live overview of your data center
+- **Floor Map** — visual rack layout with live refresh, filters, multi-select, customer health outlines, and EOL color indicators
+- **Device List & Search** — find any server or switch with live EOL countdown timers
+- **Device Config** — remote power, IP assignment, and LACP control
+- **Customer IP View** — see all IPs assigned per customer
+- **Rack Diagram** — per-rack slot view with mini shop to buy and install devices directly
+- **Buy Configured Switches** — configure SFP modules per port before purchasing (QSFP+, SFP28, SFP+ Fiber, SFP+ RJ45)
+- **Shop Cart** — queue multiple purchases (including configured SFP switches) and check out all at once
+- **SFP Presets** — save and load per-switch-model port configurations for quick repeat purchases
+- **Rack Colors** — HSV color picker with live hex input and 8 persistent favorites
+- **3D Rack Labels** — color-coded labels visible in the world
+- **Warning Sign Suppression** — toggle to hide warning signs globally
 
 ## Requirements
 
@@ -24,7 +26,7 @@ A MelonLoader mod for **Data Center** that adds a full DCIM (Data Center Infrast
 
 ### Standard
 1. Install MelonLoader for Data Center
-2. Download `DCIM-1.0.2.zip` from the [latest release](https://github.com/V1ndicate1/DCIM-Mod/releases/latest)
+2. Download `DCIM-1.0.3.zip` from the [latest release](https://github.com/V1ndicate1/DCIM-Mod/releases/latest)
 3. Extract `DCIM.dll` into your `Data Center/Mods/` folder
 4. Launch the game
 
