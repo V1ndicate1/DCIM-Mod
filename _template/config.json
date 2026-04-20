@@ -1,0 +1,19 @@
+{
+  "modName": "My Custom Item",
+  "shopItems": [
+    {
+      "price": 2500,
+      "xpToUnlock": 0,
+      "sizeInU": 1,
+      "mass": 8.0,
+      "modelScale": 1.0,
+      "colliderSize": { "x": 0.45, "y": 0.044, "z": 0.45 },
+      "colliderCenter": { "x": 0.0, "y": 0.022, "z": 0.0 },
+      "modelFile": "model.obj",
+      "textureFile": "texture.png",
+      "iconFile": "icon.png"
+    }
+  ],
+  "staticItems": [],
+  "dlls": []
+}

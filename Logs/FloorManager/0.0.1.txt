@@ -1,0 +1,667 @@
+[00:07:52.802] AutoDispatcher v1.0.0
+[00:07:52.802] by V1ndicate1
+[00:07:52.802] Assembly: AutoDispatcher.dll
+[00:07:52.802] ------------------------------
+[00:07:52.806] ------------------------------
+[00:07:52.806] FloorManager v1.0.0
+[00:07:52.806] by V1ndicate1
+[00:07:52.806] Assembly: FloorManager.dll
+[00:07:52.806] ------------------------------
+[00:07:52.806] ------------------------------
+[00:07:52.806] 2 Mods loaded.
+
+[00:07:54.059] [Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[00:07:56.000] [Il2CppInterop] Registered mono type MelonLoader.Support.MonoEnumeratorWrapper in il2cpp domain
+[00:07:56.065] Support Module Loaded: D:\SteamLibrary\steamapps\common\Data Center\MelonLoader\Dependencies\SupportModules\Il2Cpp.dll
+[00:07:56.164] [Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[00:07:56.172] [AutoDispatcher] v1.0.0 loaded. Enabled=True EolEnabled=True WarnEnabled=False
+[00:07:56.173] [FloorManager] v1.0.0 loaded.
+[00:07:56.524] [Il2CppInterop] Registered mono type MelonLoader.Support.SM_Component in il2cpp domain
+[00:07:56.544] Registered mono icall UnityEngine.Transform::SetAsLastSibling in il2cpp domain
+Setting breakpad minidump AppID = 4170200
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198248662418 [API loaded no]
+[00:08:01.007] [FloorManager] Laptop app injected.
+[00:08:02.548] [AD] Load detected — clearing state, starting 10s cooldown
+[00:08:02.570] [FloorManager] === WALL DISCOVERY: 92 walls ===
+[00:08:02.574] [FloorManager] Wall pos=(1.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(1.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.574] [FloorManager] Wall pos=(3.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(3.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.575] [FloorManager] Wall pos=(11.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(11.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.575] [FloorManager] Wall pos=(-17.00,2.50,3.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-17.00, 2.50, 3.00) size=(2.00, 3.00, 2.00)
+[00:08:02.575] [FloorManager] Wall pos=(1.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(1.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.575] [FloorManager] Wall pos=(5.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(5.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.576] [FloorManager] Wall pos=(-1.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-1.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.576] [FloorManager] Wall pos=(-17.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-17.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.576] [FloorManager] Wall pos=(-7.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-7.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.576] [FloorManager] Wall pos=(-13.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-13.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.576] [FloorManager] Wall pos=(7.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(7.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.577] [FloorManager] Wall pos=(-15.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-15.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.577] [FloorManager] Wall pos=(-13.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-13.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.577] [FloorManager] Wall pos=(-15.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-15.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.577] [FloorManager] Wall pos=(-3.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-3.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.577] [FloorManager] Wall pos=(11.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(11.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.578] [FloorManager] Wall pos=(-1.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-1.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.578] [FloorManager] Wall pos=(-13.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-13.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.578] [FloorManager] Wall pos=(-5.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-5.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.578] [FloorManager] Wall pos=(3.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(3.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.578] [FloorManager] Wall pos=(5.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(5.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.579] [FloorManager] Wall pos=(-13.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-13.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.579] [FloorManager] Wall pos=(1.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(1.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.579] [FloorManager] Wall pos=(-7.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-7.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.579] [FloorManager] Wall pos=(-17.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-17.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.581] [FloorManager] Wall pos=(-1.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-1.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.581] [FloorManager] Wall pos=(1.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(1.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.581] [FloorManager] Wall pos=(-7.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-7.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.581] [FloorManager] Wall pos=(-15.00,2.50,3.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-15.00, 2.50, 3.00) size=(2.00, 3.00, 2.00)
+[00:08:02.581] [FloorManager] Wall pos=(-15.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-15.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.582] [FloorManager] Wall pos=(-3.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-3.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.582] [FloorManager] Wall pos=(-13.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-13.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.582] [FloorManager] Wall pos=(-9.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-9.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.582] [FloorManager] Wall pos=(-15.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-15.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.582] [FloorManager] Wall pos=(-1.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-1.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.582] [FloorManager] Wall pos=(-5.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-5.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.583] [FloorManager] Wall pos=(-5.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-5.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.583] [FloorManager] Wall pos=(1.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(1.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.583] [FloorManager] Wall pos=(-11.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-11.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.583] [FloorManager] Wall pos=(11.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(11.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.583] [FloorManager] Wall pos=(-17.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-17.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.583] [FloorManager] Wall pos=(-17.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-17.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.584] [FloorManager] Wall pos=(5.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(5.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.584] [FloorManager] Wall pos=(7.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(7.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.584] [FloorManager] Wall pos=(3.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(3.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.584] [FloorManager] Wall pos=(-1.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-1.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.584] [FloorManager] Wall pos=(-11.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-11.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.585] [FloorManager] Wall pos=(9.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(9.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.585] [FloorManager] Wall pos=(9.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(9.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.585] [FloorManager] Wall pos=(9.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(9.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.585] [FloorManager] Wall pos=(-7.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-7.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.586] [FloorManager] Wall pos=(-11.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-11.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.586] [FloorManager] Wall pos=(1.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(1.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.586] [FloorManager] Wall pos=(-15.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-15.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.586] [FloorManager] Wall pos=(-3.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-3.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.586] [FloorManager] Wall pos=(11.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(11.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.586] [FloorManager] Wall pos=(3.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(3.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.586] [FloorManager] Wall pos=(-13.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-13.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.587] [FloorManager] Wall pos=(-7.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-7.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.587] [FloorManager] Wall pos=(-9.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-9.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.587] [FloorManager] Wall pos=(-5.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-5.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.587] [FloorManager] Wall pos=(-5.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-5.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.587] [FloorManager] Wall pos=(-3.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-3.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.587] [FloorManager] Wall pos=(7.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(7.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.588] [FloorManager] Wall pos=(3.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(3.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.588] [FloorManager] Wall pos=(11.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(11.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.588] [FloorManager] Wall pos=(5.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(5.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.588] [FloorManager] Wall pos=(-17.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-17.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.588] [FloorManager] Wall pos=(5.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(5.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.589] [FloorManager] Wall pos=(-11.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-11.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.589] [FloorManager] Wall pos=(-3.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-3.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.589] [FloorManager] Wall pos=(9.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(9.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.589] [FloorManager] Wall pos=(7.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(7.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.590] [FloorManager] Wall pos=(-17.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-17.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.590] [FloorManager] Wall pos=(-3.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-3.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.590] [FloorManager] Wall pos=(11.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(11.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.590] [FloorManager] Wall pos=(-9.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-9.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.590] [FloorManager] Wall pos=(9.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(9.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.591] [FloorManager] Wall pos=(-9.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-9.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.591] [FloorManager] Wall pos=(3.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(3.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.591] [FloorManager] Wall pos=(5.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(5.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.591] [FloorManager] Wall pos=(-9.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-9.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.591] [FloorManager] Wall pos=(-1.00,2.50,15.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-1.00, 2.50, 15.00) size=(2.00, 3.00, 2.00)
+[00:08:02.592] [FloorManager] Wall pos=(7.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(7.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.592] [FloorManager] Wall pos=(-11.00,2.50,5.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-11.00, 2.50, 5.00) size=(2.00, 3.00, 2.00)
+[00:08:02.592] [FloorManager] Wall pos=(9.00,2.50,9.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(9.00, 2.50, 9.00) size=(2.00, 3.00, 2.00)
+[00:08:02.592] [FloorManager] Wall pos=(7.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(7.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.592] [FloorManager] Wall pos=(-7.00,2.50,7.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-7.00, 2.50, 7.00) size=(2.00, 3.00, 2.00)
+[00:08:02.593] [FloorManager] Wall pos=(-15.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-15.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.593] [FloorManager] Wall pos=(-9.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-9.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.593] [FloorManager] Wall pos=(-11.00,2.50,13.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-11.00, 2.50, 13.00) size=(2.00, 3.00, 2.00)
+[00:08:02.593] [FloorManager] Wall pos=(-5.00,2.50,11.00) rot=(-0,0,0) scale=(1.33,1.00,1.33) opened=False bounds center=(-5.00, 2.50, 11.00) size=(2.00, 3.00, 2.00)
+[00:08:02.594] [FloorManager] === WALLS SUMMARY: 0/92 opened ===
+[00:08:02.611] [FloorManager] === RACKMOUNT DISCOVERY: 512 mounts ===
+[00:08:02.611] [FloorManager] RackMount pos=(0.45,1.00,9.48) installed=False
+[00:08:02.612] [FloorManager] RackMount pos=(-14.55,1.00,9.48) installed=False
+[00:08:02.612] [FloorManager] RackMount pos=(10.45,1.00,9.48) installed=False
+[00:08:02.612] [FloorManager] RackMount pos=(15.45,1.00,9.48) installed=False
+[00:08:02.612] [FloorManager] RackMount pos=(5.45,1.00,9.48) installed=False
+[00:08:02.613] [FloorManager] RackMount pos=(-4.55,1.00,9.48) installed=False
+[00:08:02.613] [FloorManager] RackMount pos=(-9.55,1.00,9.48) installed=False
+[00:08:02.613] [FloorManager] RackMount pos=(11.25,1.00,-10.52) installed=True
+[00:08:02.613] [FloorManager] RackMount pos=(-13.75,1.00,-10.52) installed=False
+[00:08:02.614] [FloorManager] RackMount pos=(1.25,1.00,-10.52) installed=True
+[00:08:02.614] [FloorManager] RackMount pos=(-8.75,1.00,-10.52) installed=True
+[00:08:02.614] [FloorManager] RackMount pos=(16.25,1.00,-10.52) installed=True
+[00:08:02.614] [FloorManager] RackMount pos=(14.64,1.00,13.48) installed=False
+[00:08:02.615] [FloorManager] RackMount pos=(-10.36,1.00,13.48) installed=False
+[00:08:02.615] [FloorManager] RackMount pos=(4.64,1.00,13.48) installed=False
+[00:08:02.615] [FloorManager] RackMount pos=(-5.36,1.00,13.48) installed=False
+[00:08:02.615] [FloorManager] RackMount pos=(9.64,1.00,13.48) installed=False
+[00:08:02.615] [FloorManager] RackMount pos=(-15.36,1.00,13.48) installed=False
+[00:08:02.616] [FloorManager] RackMount pos=(-0.36,1.00,13.48) installed=False
+[00:08:02.616] [FloorManager] RackMount pos=(-16.16,1.00,11.48) installed=False
+[00:08:02.616] [FloorManager] RackMount pos=(8.84,1.00,11.48) installed=False
+[00:08:02.616] [FloorManager] RackMount pos=(-1.16,1.00,11.48) installed=False
+[00:08:02.616] [FloorManager] RackMount pos=(-11.16,1.00,11.48) installed=False
+[00:08:02.616] [FloorManager] RackMount pos=(-6.16,1.00,11.48) installed=False
+[00:08:02.616] [FloorManager] RackMount pos=(3.84,1.00,11.48) installed=False
+[00:08:02.617] [FloorManager] RackMount pos=(13.84,1.00,11.48) installed=False
+[00:08:02.617] [FloorManager] RackMount pos=(-10.36,1.00,-8.52) installed=False
+[00:08:02.617] [FloorManager] RackMount pos=(4.64,1.00,-8.52) installed=False
+[00:08:02.617] [FloorManager] RackMount pos=(-5.36,1.00,-8.52) installed=False
+[00:08:02.617] [FloorManager] RackMount pos=(14.64,1.00,-8.52) installed=True
+[00:08:02.617] [FloorManager] RackMount pos=(-15.36,1.00,-8.52) installed=False
+[00:08:02.618] [FloorManager] RackMount pos=(9.64,1.00,-8.52) installed=True
+[00:08:02.618] [FloorManager] RackMount pos=(-0.36,1.00,-8.52) installed=True
+[00:08:02.618] [FloorManager] RackMount pos=(0.45,1.00,15.48) installed=False
+[00:08:02.618] [FloorManager] RackMount pos=(10.45,1.00,15.48) installed=False
+[00:08:02.619] [FloorManager] RackMount pos=(-14.55,1.00,15.48) installed=False
+[00:08:02.619] [FloorManager] RackMount pos=(-4.55,1.00,15.48) installed=False
+[00:08:02.619] [FloorManager] RackMount pos=(5.45,1.00,15.48) installed=False
+[00:08:02.619] [FloorManager] RackMount pos=(-9.55,1.00,15.48) installed=False
+[00:08:02.619] [FloorManager] RackMount pos=(15.45,1.00,15.48) installed=False
+[00:08:02.619] [FloorManager] RackMount pos=(-0.36,1.00,-0.52) installed=False
+[00:08:02.619] [FloorManager] RackMount pos=(-15.36,1.00,-0.52) installed=False
+[00:08:02.619] [FloorManager] RackMount pos=(9.64,1.00,-0.52) installed=False
+[00:08:02.620] [FloorManager] RackMount pos=(4.64,1.00,-0.52) installed=False
+[00:08:02.620] [FloorManager] RackMount pos=(-5.36,1.00,-0.52) installed=False
+[00:08:02.620] [FloorManager] RackMount pos=(-10.36,1.00,-0.52) installed=False
+[00:08:02.620] [FloorManager] RackMount pos=(14.64,1.00,-0.52) installed=False
+[00:08:02.620] [FloorManager] RackMount pos=(14.64,1.00,-10.52) installed=True
+[00:08:02.620] [FloorManager] RackMount pos=(-10.36,1.00,-10.52) installed=True
+[00:08:02.620] [FloorManager] RackMount pos=(4.64,1.00,-10.52) installed=False
+[00:08:02.621] [FloorManager] RackMount pos=(-5.36,1.00,-10.52) installed=False
+[00:08:02.621] [FloorManager] RackMount pos=(-15.36,1.00,-10.52) installed=False
+[00:08:02.621] [FloorManager] RackMount pos=(9.64,1.00,-10.52) installed=True
+[00:08:02.621] [FloorManager] RackMount pos=(-0.36,1.00,-10.52) installed=True
+[00:08:02.621] [FloorManager] RackMount pos=(-14.55,1.00,-6.52) installed=False
+[00:08:02.621] [FloorManager] RackMount pos=(10.45,1.00,-6.52) installed=False
+[00:08:02.621] [FloorManager] RackMount pos=(0.45,1.00,-6.52) installed=False
+[00:08:02.622] [FloorManager] RackMount pos=(-9.55,1.00,-6.52) installed=False
+[00:08:02.622] [FloorManager] RackMount pos=(-4.55,1.00,-6.52) installed=False
+[00:08:02.622] [FloorManager] RackMount pos=(5.45,1.00,-6.52) installed=False
+[00:08:02.622] [FloorManager] RackMount pos=(15.45,1.00,-6.52) installed=True
+[00:08:02.622] [FloorManager] RackMount pos=(-9.55,1.00,3.48) installed=False
+[00:08:02.622] [FloorManager] RackMount pos=(5.45,1.00,3.48) installed=False
+[00:08:02.623] [FloorManager] RackMount pos=(-4.55,1.00,3.48) installed=False
+[00:08:02.623] [FloorManager] RackMount pos=(15.45,1.00,3.48) installed=False
+[00:08:02.623] [FloorManager] RackMount pos=(10.45,1.00,3.48) installed=False
+[00:08:02.623] [FloorManager] RackMount pos=(-14.55,1.00,3.48) installed=False
+[00:08:02.623] [FloorManager] RackMount pos=(0.45,1.00,3.48) installed=False
+[00:08:02.623] [FloorManager] RackMount pos=(-13.75,1.00,13.48) installed=False
+[00:08:02.624] [FloorManager] RackMount pos=(11.25,1.00,13.48) installed=False
+[00:08:02.624] [FloorManager] RackMount pos=(1.25,1.00,13.48) installed=False
+[00:08:02.624] [FloorManager] RackMount pos=(-8.75,1.00,13.48) installed=False
+[00:08:02.624] [FloorManager] RackMount pos=(16.25,1.00,13.48) installed=False
+[00:08:02.624] [FloorManager] RackMount pos=(11.25,1.00,-8.52) installed=True
+[00:08:02.624] [FloorManager] RackMount pos=(-13.75,1.00,-8.52) installed=False
+[00:08:02.624] [FloorManager] RackMount pos=(1.25,1.00,-8.52) installed=True
+[00:08:02.625] [FloorManager] RackMount pos=(16.25,1.00,-8.52) installed=True
+[00:08:02.626] [FloorManager] RackMount pos=(-8.75,1.00,-8.52) installed=False
+[00:08:02.626] [FloorManager] RackMount pos=(10.45,1.00,-14.52) installed=True
+[00:08:02.626] [FloorManager] RackMount pos=(-14.55,1.00,-14.52) installed=False
+[00:08:02.627] [FloorManager] RackMount pos=(0.45,1.00,-14.52) installed=True
+[00:08:02.627] [FloorManager] RackMount pos=(-9.55,1.00,-14.52) installed=True
+[00:08:02.627] [FloorManager] RackMount pos=(5.45,1.00,-14.52) installed=True
+[00:08:02.627] [FloorManager] RackMount pos=(-4.55,1.00,-14.52) installed=False
+[00:08:02.627] [FloorManager] RackMount pos=(15.45,1.00,-14.52) installed=True
+[00:08:02.627] [FloorManager] RackMount pos=(16.25,1.00,-0.52) installed=False
+[00:08:02.628] [FloorManager] RackMount pos=(-8.75,1.00,-0.52) installed=False
+[00:08:02.628] [FloorManager] RackMount pos=(1.25,1.00,-0.52) installed=False
+[00:08:02.628] [FloorManager] RackMount pos=(11.25,1.00,-0.52) installed=False
+[00:08:02.628] [FloorManager] RackMount pos=(-13.75,1.00,-0.52) installed=False
+[00:08:02.628] [FloorManager] RackMount pos=(8.03,1.00,9.48) installed=False
+[00:08:02.628] [FloorManager] RackMount pos=(-1.97,1.00,9.48) installed=False
+[00:08:02.628] [FloorManager] RackMount pos=(13.03,1.00,9.48) installed=False
+[00:08:02.629] [FloorManager] RackMount pos=(-11.97,1.00,9.48) installed=False
+[00:08:02.629] [FloorManager] RackMount pos=(3.03,1.00,9.48) installed=False
+[00:08:02.629] [FloorManager] RackMount pos=(-6.97,1.00,9.48) installed=False
+[00:08:02.629] [FloorManager] RackMount pos=(-16.16,1.00,1.48) installed=False
+[00:08:02.629] [FloorManager] RackMount pos=(8.84,1.00,1.48) installed=False
+[00:08:02.629] [FloorManager] RackMount pos=(-1.16,1.00,1.48) installed=False
+[00:08:02.629] [FloorManager] RackMount pos=(-11.16,1.00,1.48) installed=False
+[00:08:02.629] [FloorManager] RackMount pos=(3.84,1.00,1.48) installed=False
+[00:08:02.630] [FloorManager] RackMount pos=(-6.16,1.00,1.48) installed=False
+[00:08:02.630] [FloorManager] RackMount pos=(13.84,1.00,1.48) installed=False
+[00:08:02.630] [FloorManager] RackMount pos=(1.25,1.00,-2.52) installed=False
+[00:08:02.630] [FloorManager] RackMount pos=(-13.75,1.00,-2.52) installed=False
+[00:08:02.631] [FloorManager] RackMount pos=(11.25,1.00,-2.52) installed=False
+[00:08:02.631] [FloorManager] RackMount pos=(16.25,1.00,-2.52) installed=False
+[00:08:02.631] [FloorManager] RackMount pos=(-8.75,1.00,-2.52) installed=False
+[00:08:02.631] [FloorManager] RackMount pos=(8.03,1.00,15.48) installed=False
+[00:08:02.631] [FloorManager] RackMount pos=(-1.97,1.00,15.48) installed=False
+[00:08:02.632] [FloorManager] RackMount pos=(-11.97,1.00,15.48) installed=False
+[00:08:02.632] [FloorManager] RackMount pos=(-6.97,1.00,15.48) installed=False
+[00:08:02.632] [FloorManager] RackMount pos=(3.03,1.00,15.48) installed=False
+[00:08:02.632] [FloorManager] RackMount pos=(13.03,1.00,15.48) installed=False
+[00:08:02.632] [FloorManager] RackMount pos=(3.03,1.00,3.48) installed=False
+[00:08:02.632] [FloorManager] RackMount pos=(-6.97,1.00,3.48) installed=False
+[00:08:02.633] [FloorManager] RackMount pos=(-11.97,1.00,3.48) installed=False
+[00:08:02.633] [FloorManager] RackMount pos=(13.03,1.00,3.48) installed=False
+[00:08:02.633] [FloorManager] RackMount pos=(-1.97,1.00,3.48) installed=False
+[00:08:02.633] [FloorManager] RackMount pos=(8.03,1.00,3.48) installed=False
+[00:08:02.633] [FloorManager] RackMount pos=(-1.97,1.00,-6.52) installed=False
+[00:08:02.633] [FloorManager] RackMount pos=(8.03,1.00,-6.52) installed=False
+[00:08:02.634] [FloorManager] RackMount pos=(-6.97,1.00,-6.52) installed=False
+[00:08:02.634] [FloorManager] RackMount pos=(3.03,1.00,-6.52) installed=False
+[00:08:02.634] [FloorManager] RackMount pos=(-11.97,1.00,-6.52) installed=False
+[00:08:02.634] [FloorManager] RackMount pos=(13.03,1.00,-6.52) installed=True
+[00:08:02.635] [FloorManager] RackMount pos=(-1.16,1.00,-12.52) installed=True
+[00:08:02.635] [FloorManager] RackMount pos=(8.84,1.00,-12.52) installed=True
+[00:08:02.635] [FloorManager] RackMount pos=(-16.16,1.00,-12.52) installed=False
+[00:08:02.635] [FloorManager] RackMount pos=(-6.16,1.00,-12.52) installed=False
+[00:08:02.635] [FloorManager] RackMount pos=(3.84,1.00,-12.52) installed=False
+[00:08:02.635] [FloorManager] RackMount pos=(-11.16,1.00,-12.52) installed=True
+[00:08:02.635] [FloorManager] RackMount pos=(13.84,1.00,-12.52) installed=True
+[00:08:02.636] [FloorManager] RackMount pos=(4.64,1.00,-2.52) installed=False
+[00:08:02.636] [FloorManager] RackMount pos=(-5.36,1.00,-2.52) installed=False
+[00:08:02.636] [FloorManager] RackMount pos=(-10.36,1.00,-2.52) installed=False
+[00:08:02.636] [FloorManager] RackMount pos=(14.64,1.00,-2.52) installed=False
+[00:08:02.636] [FloorManager] RackMount pos=(-0.36,1.00,-2.52) installed=False
+[00:08:02.636] [FloorManager] RackMount pos=(9.64,1.00,-2.52) installed=False
+[00:08:02.637] [FloorManager] RackMount pos=(-15.36,1.00,-2.52) installed=False
+[00:08:02.637] [FloorManager] RackMount pos=(-1.97,1.00,-14.52) installed=True
+[00:08:02.637] [FloorManager] RackMount pos=(8.03,1.00,-14.52) installed=True
+[00:08:02.637] [FloorManager] RackMount pos=(3.03,1.00,-14.52) installed=True
+[00:08:02.637] [FloorManager] RackMount pos=(-6.97,1.00,-14.52) installed=False
+[00:08:02.637] [FloorManager] RackMount pos=(-11.97,1.00,-14.52) installed=True
+[00:08:02.637] [FloorManager] RackMount pos=(13.03,1.00,-14.52) installed=True
+[00:08:02.638] [FloorManager] RackMount pos=(14.64,1.00,-4.52) installed=False
+[00:08:02.638] [FloorManager] RackMount pos=(4.64,1.00,-4.52) installed=False
+[00:08:02.638] [FloorManager] RackMount pos=(-5.36,1.00,-4.52) installed=False
+[00:08:02.638] [FloorManager] RackMount pos=(-10.36,1.00,-4.52) installed=False
+[00:08:02.638] [FloorManager] RackMount pos=(-0.36,1.00,-4.52) installed=False
+[00:08:02.639] [FloorManager] RackMount pos=(-15.36,1.00,-4.52) installed=False
+[00:08:02.639] [FloorManager] RackMount pos=(9.64,1.00,-4.52) installed=False
+[00:08:02.639] [FloorManager] RackMount pos=(0.45,1.00,-12.52) installed=True
+[00:08:02.639] [FloorManager] RackMount pos=(-14.55,1.00,-12.52) installed=False
+[00:08:02.639] [FloorManager] RackMount pos=(10.45,1.00,-12.52) installed=True
+[00:08:02.639] [FloorManager] RackMount pos=(5.45,1.00,-12.52) installed=False
+[00:08:02.639] [FloorManager] RackMount pos=(-4.55,1.00,-12.52) installed=False
+[00:08:02.640] [FloorManager] RackMount pos=(-9.55,1.00,-12.52) installed=True
+[00:08:02.640] [FloorManager] RackMount pos=(15.45,1.00,-12.52) installed=True
+[00:08:02.640] [FloorManager] RackMount pos=(1.25,1.00,-4.52) installed=False
+[00:08:02.640] [FloorManager] RackMount pos=(11.25,1.00,-4.52) installed=False
+[00:08:02.641] [FloorManager] RackMount pos=(-13.75,1.00,-4.52) installed=False
+[00:08:02.641] [FloorManager] RackMount pos=(-8.75,1.00,-4.52) installed=False
+[00:08:02.642] [FloorManager] RackMount pos=(16.25,1.00,-4.52) installed=False
+[00:08:02.642] [FloorManager] RackMount pos=(10.45,1.00,1.48) installed=False
+[00:08:02.642] [FloorManager] RackMount pos=(-14.55,1.00,1.48) installed=False
+[00:08:02.642] [FloorManager] RackMount pos=(0.45,1.00,1.48) installed=False
+[00:08:02.642] [FloorManager] RackMount pos=(-9.55,1.00,1.48) installed=False
+[00:08:02.642] [FloorManager] RackMount pos=(-4.55,1.00,1.48) installed=False
+[00:08:02.643] [FloorManager] RackMount pos=(5.45,1.00,1.48) installed=False
+[00:08:02.643] [FloorManager] RackMount pos=(15.45,1.00,1.48) installed=False
+[00:08:02.643] [FloorManager] RackMount pos=(-1.97,1.00,11.48) installed=False
+[00:08:02.643] [FloorManager] RackMount pos=(8.03,1.00,11.48) installed=False
+[00:08:02.643] [FloorManager] RackMount pos=(3.03,1.00,11.48) installed=False
+[00:08:02.643] [FloorManager] RackMount pos=(-6.97,1.00,11.48) installed=False
+[00:08:02.644] [FloorManager] RackMount pos=(-11.97,1.00,11.48) installed=False
+[00:08:02.644] [FloorManager] RackMount pos=(13.03,1.00,11.48) installed=False
+[00:08:02.644] [FloorManager] RackMount pos=(8.84,1.00,-6.52) installed=False
+[00:08:02.644] [FloorManager] RackMount pos=(-16.16,1.00,-6.52) installed=False
+[00:08:02.644] [FloorManager] RackMount pos=(-1.16,1.00,-6.52) installed=False
+[00:08:02.644] [FloorManager] RackMount pos=(-11.16,1.00,-6.52) installed=False
+[00:08:02.644] [FloorManager] RackMount pos=(3.84,1.00,-6.52) installed=False
+[00:08:02.645] [FloorManager] RackMount pos=(-6.16,1.00,-6.52) installed=False
+[00:08:02.645] [FloorManager] RackMount pos=(13.84,1.00,-6.52) installed=True
+[00:08:02.645] [FloorManager] RackMount pos=(16.25,1.00,5.48) installed=False
+[00:08:02.645] [FloorManager] RackMount pos=(-8.75,1.00,5.48) installed=False
+[00:08:02.645] [FloorManager] RackMount pos=(11.25,1.00,5.48) installed=False
+[00:08:02.645] [FloorManager] RackMount pos=(-13.75,1.00,5.48) installed=False
+[00:08:02.645] [FloorManager] RackMount pos=(1.25,1.00,5.48) installed=False
+[00:08:02.645] [FloorManager] RackMount pos=(-11.16,1.00,3.48) installed=False
+[00:08:02.646] [FloorManager] RackMount pos=(-6.16,1.00,3.48) installed=False
+[00:08:02.646] [FloorManager] RackMount pos=(3.84,1.00,3.48) installed=False
+[00:08:02.646] [FloorManager] RackMount pos=(13.84,1.00,3.48) installed=False
+[00:08:02.646] [FloorManager] RackMount pos=(-16.16,1.00,3.48) installed=False
+[00:08:02.646] [FloorManager] RackMount pos=(8.84,1.00,3.48) installed=False
+[00:08:02.646] [FloorManager] RackMount pos=(-1.16,1.00,3.48) installed=False
+[00:08:02.647] [FloorManager] RackMount pos=(14.64,1.00,7.48) installed=False
+[00:08:02.647] [FloorManager] RackMount pos=(4.64,1.00,7.48) installed=False
+[00:08:02.647] [FloorManager] RackMount pos=(-5.36,1.00,7.48) installed=False
+[00:08:02.647] [FloorManager] RackMount pos=(-10.36,1.00,7.48) installed=False
+[00:08:02.647] [FloorManager] RackMount pos=(-0.36,1.00,7.48) installed=False
+[00:08:02.647] [FloorManager] RackMount pos=(-15.36,1.00,7.48) installed=False
+[00:08:02.648] [FloorManager] RackMount pos=(9.64,1.00,7.48) installed=False
+[00:08:02.648] [FloorManager] RackMount pos=(-16.16,1.00,-14.52) installed=False
+[00:08:02.648] [FloorManager] RackMount pos=(8.84,1.00,-14.52) installed=True
+[00:08:02.648] [FloorManager] RackMount pos=(-1.16,1.00,-14.52) installed=True
+[00:08:02.648] [FloorManager] RackMount pos=(-11.16,1.00,-14.52) installed=True
+[00:08:02.648] [FloorManager] RackMount pos=(-6.16,1.00,-14.52) installed=False
+[00:08:02.649] [FloorManager] RackMount pos=(3.84,1.00,-14.52) installed=True
+[00:08:02.649] [FloorManager] RackMount pos=(13.84,1.00,-14.52) installed=True
+[00:08:02.649] [FloorManager] RackMount pos=(8.03,1.00,-12.52) installed=True
+[00:08:02.649] [FloorManager] RackMount pos=(-1.97,1.00,-12.52) installed=True
+[00:08:02.649] [FloorManager] RackMount pos=(-11.97,1.00,-12.52) installed=True
+[00:08:02.649] [FloorManager] RackMount pos=(3.03,1.00,-12.52) installed=False
+[00:08:02.649] [FloorManager] RackMount pos=(-6.97,1.00,-12.52) installed=False
+[00:08:02.650] [FloorManager] RackMount pos=(13.03,1.00,-12.52) installed=True
+[00:08:02.650] [FloorManager] RackMount pos=(-1.16,1.00,9.48) installed=False
+[00:08:02.650] [FloorManager] RackMount pos=(8.84,1.00,9.48) installed=False
+[00:08:02.650] [FloorManager] RackMount pos=(-16.16,1.00,9.48) installed=False
+[00:08:02.650] [FloorManager] RackMount pos=(13.84,1.00,9.48) installed=False
+[00:08:02.650] [FloorManager] RackMount pos=(-6.16,1.00,9.48) installed=False
+[00:08:02.650] [FloorManager] RackMount pos=(3.84,1.00,9.48) installed=False
+[00:08:02.651] [FloorManager] RackMount pos=(-11.16,1.00,9.48) installed=False
+[00:08:02.651] [FloorManager] RackMount pos=(-15.36,1.00,5.48) installed=False
+[00:08:02.651] [FloorManager] RackMount pos=(9.64,1.00,5.48) installed=False
+[00:08:02.651] [FloorManager] RackMount pos=(-0.36,1.00,5.48) installed=False
+[00:08:02.651] [FloorManager] RackMount pos=(-10.36,1.00,5.48) installed=False
+[00:08:02.652] [FloorManager] RackMount pos=(4.64,1.00,5.48) installed=False
+[00:08:02.652] [FloorManager] RackMount pos=(-5.36,1.00,5.48) installed=False
+[00:08:02.652] [FloorManager] RackMount pos=(14.64,1.00,5.48) installed=False
+[00:08:02.652] [FloorManager] RackMount pos=(1.25,1.00,7.48) installed=False
+[00:08:02.652] [FloorManager] RackMount pos=(11.25,1.00,7.48) installed=False
+[00:08:02.652] [FloorManager] RackMount pos=(-13.75,1.00,7.48) installed=False
+[00:08:02.653] [FloorManager] RackMount pos=(-8.75,1.00,7.48) installed=False
+[00:08:02.653] [FloorManager] RackMount pos=(16.25,1.00,7.48) installed=False
+[00:08:02.653] [FloorManager] RackMount pos=(10.45,1.00,11.48) installed=False
+[00:08:02.653] [FloorManager] RackMount pos=(-14.55,1.00,11.48) installed=False
+[00:08:02.653] [FloorManager] RackMount pos=(0.45,1.00,11.48) installed=False
+[00:08:02.653] [FloorManager] RackMount pos=(-9.55,1.00,11.48) installed=False
+[00:08:02.653] [FloorManager] RackMount pos=(5.45,1.00,11.48) installed=False
+[00:08:02.653] [FloorManager] RackMount pos=(-4.55,1.00,11.48) installed=False
+[00:08:02.654] [FloorManager] RackMount pos=(15.45,1.00,11.48) installed=False
+[00:08:02.654] [FloorManager] RackMount pos=(-1.16,1.00,15.48) installed=False
+[00:08:02.654] [FloorManager] RackMount pos=(-16.16,1.00,15.48) installed=False
+[00:08:02.654] [FloorManager] RackMount pos=(8.84,1.00,15.48) installed=False
+[00:08:02.654] [FloorManager] RackMount pos=(3.84,1.00,15.48) installed=False
+[00:08:02.654] [FloorManager] RackMount pos=(-6.16,1.00,15.48) installed=False
+[00:08:02.654] [FloorManager] RackMount pos=(-11.16,1.00,15.48) installed=False
+[00:08:02.655] [FloorManager] RackMount pos=(13.84,1.00,15.48) installed=False
+[00:08:02.655] [FloorManager] RackMount pos=(-1.97,1.00,1.48) installed=False
+[00:08:02.655] [FloorManager] RackMount pos=(8.03,1.00,1.48) installed=False
+[00:08:02.655] [FloorManager] RackMount pos=(-6.97,1.00,1.48) installed=False
+[00:08:02.655] [FloorManager] RackMount pos=(3.03,1.00,1.48) installed=False
+[00:08:02.656] [FloorManager] RackMount pos=(-11.97,1.00,1.48) installed=False
+[00:08:02.656] [FloorManager] RackMount pos=(13.03,1.00,1.48) installed=False
+[00:08:02.656] [FloorManager] RackMount pos=(8.03,1.00,-2.52) installed=False
+[00:08:02.657] [FloorManager] RackMount pos=(-1.97,1.00,-2.52) installed=False
+[00:08:02.658] [FloorManager] RackMount pos=(-11.97,1.00,-2.52) installed=False
+[00:08:02.658] [FloorManager] RackMount pos=(3.03,1.00,-2.52) installed=False
+[00:08:02.658] [FloorManager] RackMount pos=(-6.97,1.00,-2.52) installed=False
+[00:08:02.658] [FloorManager] RackMount pos=(13.03,1.00,-2.52) installed=False
+[00:08:02.658] [FloorManager] RackMount pos=(-10.36,1.00,-14.52) installed=True
+[00:08:02.658] [FloorManager] RackMount pos=(4.64,1.00,-14.52) installed=True
+[00:08:02.659] [FloorManager] RackMount pos=(-5.36,1.00,-14.52) installed=False
+[00:08:02.659] [FloorManager] RackMount pos=(14.64,1.00,-14.52) installed=True
+[00:08:02.659] [FloorManager] RackMount pos=(9.64,1.00,-14.52) installed=True
+[00:08:02.659] [FloorManager] RackMount pos=(-15.36,1.00,-14.52) installed=False
+[00:08:02.660] [FloorManager] RackMount pos=(-0.36,1.00,-14.52) installed=True
+[00:08:02.660] [FloorManager] RackMount pos=(1.25,1.00,15.48) installed=False
+[00:08:02.660] [FloorManager] RackMount pos=(-13.75,1.00,15.48) installed=False
+[00:08:02.660] [FloorManager] RackMount pos=(11.25,1.00,15.48) installed=False
+[00:08:02.660] [FloorManager] RackMount pos=(16.25,1.00,15.48) installed=False
+[00:08:02.660] [FloorManager] RackMount pos=(-8.75,1.00,15.48) installed=False
+[00:08:02.661] [FloorManager] RackMount pos=(-1.16,1.00,7.48) installed=False
+[00:08:02.661] [FloorManager] RackMount pos=(8.84,1.00,7.48) installed=False
+[00:08:02.661] [FloorManager] RackMount pos=(-16.16,1.00,7.48) installed=False
+[00:08:02.661] [FloorManager] RackMount pos=(13.84,1.00,7.48) installed=False
+[00:08:02.661] [FloorManager] RackMount pos=(-6.16,1.00,7.48) installed=False
+[00:08:02.661] [FloorManager] RackMount pos=(3.84,1.00,7.48) installed=False
+[00:08:02.662] [FloorManager] RackMount pos=(-11.16,1.00,7.48) installed=False
+[00:08:02.662] [FloorManager] RackMount pos=(9.64,1.00,3.48) installed=False
+[00:08:02.662] [FloorManager] RackMount pos=(-15.36,1.00,3.48) installed=False
+[00:08:02.662] [FloorManager] RackMount pos=(-0.36,1.00,3.48) installed=False
+[00:08:02.662] [FloorManager] RackMount pos=(-10.36,1.00,3.48) installed=False
+[00:08:02.662] [FloorManager] RackMount pos=(4.64,1.00,3.48) installed=False
+[00:08:02.662] [FloorManager] RackMount pos=(-5.36,1.00,3.48) installed=False
+[00:08:02.662] [FloorManager] RackMount pos=(14.64,1.00,3.48) installed=False
+[00:08:02.663] [FloorManager] RackMount pos=(1.25,1.00,9.48) installed=False
+[00:08:02.663] [FloorManager] RackMount pos=(11.25,1.00,9.48) installed=False
+[00:08:02.663] [FloorManager] RackMount pos=(-13.75,1.00,9.48) installed=False
+[00:08:02.663] [FloorManager] RackMount pos=(-8.75,1.00,9.48) installed=False
+[00:08:02.663] [FloorManager] RackMount pos=(16.25,1.00,9.48) installed=False
+[00:08:02.663] [FloorManager] RackMount pos=(-14.55,1.00,-10.52) installed=False
+[00:08:02.664] [FloorManager] RackMount pos=(10.45,1.00,-10.52) installed=True
+[00:08:02.664] [FloorManager] RackMount pos=(0.45,1.00,-10.52) installed=True
+[00:08:02.664] [FloorManager] RackMount pos=(15.45,1.00,-10.52) installed=True
+[00:08:02.664] [FloorManager] RackMount pos=(-9.55,1.00,-10.52) installed=True
+[00:08:02.664] [FloorManager] RackMount pos=(5.45,1.00,-10.52) installed=False
+[00:08:02.665] [FloorManager] RackMount pos=(-4.55,1.00,-10.52) installed=False
+[00:08:02.665] [FloorManager] RackMount pos=(-10.36,1.00,-6.52) installed=False
+[00:08:02.665] [FloorManager] RackMount pos=(-5.36,1.00,-6.52) installed=False
+[00:08:02.665] [FloorManager] RackMount pos=(4.64,1.00,-6.52) installed=False
+[00:08:02.665] [FloorManager] RackMount pos=(14.64,1.00,-6.52) installed=True
+[00:08:02.665] [FloorManager] RackMount pos=(-15.36,1.00,-6.52) installed=False
+[00:08:02.665] [FloorManager] RackMount pos=(9.64,1.00,-6.52) installed=False
+[00:08:02.666] [FloorManager] RackMount pos=(-0.36,1.00,-6.52) installed=False
+[00:08:02.666] [FloorManager] RackMount pos=(16.25,1.00,-14.52) installed=True
+[00:08:02.666] [FloorManager] RackMount pos=(5.45,1.00,-0.52) installed=False
+[00:08:02.666] [FloorManager] RackMount pos=(-4.55,1.00,-0.52) installed=False
+[00:08:02.666] [FloorManager] RackMount pos=(-9.55,1.00,-0.52) installed=False
+[00:08:02.666] [FloorManager] RackMount pos=(15.45,1.00,-0.52) installed=False
+[00:08:02.666] [FloorManager] RackMount pos=(0.45,1.00,-0.52) installed=False
+[00:08:02.667] [FloorManager] RackMount pos=(-14.55,1.00,-0.52) installed=False
+[00:08:02.667] [FloorManager] RackMount pos=(10.45,1.00,-0.52) installed=False
+[00:08:02.667] [FloorManager] RackMount pos=(-5.36,1.00,15.48) installed=False
+[00:08:02.667] [FloorManager] RackMount pos=(4.64,1.00,15.48) installed=False
+[00:08:02.667] [FloorManager] RackMount pos=(-10.36,1.00,15.48) installed=False
+[00:08:02.667] [FloorManager] RackMount pos=(14.64,1.00,15.48) installed=False
+[00:08:02.668] [FloorManager] RackMount pos=(-0.36,1.00,15.48) installed=False
+[00:08:02.668] [FloorManager] RackMount pos=(9.64,1.00,15.48) installed=False
+[00:08:02.668] [FloorManager] RackMount pos=(-15.36,1.00,15.48) installed=False
+[00:08:02.668] [FloorManager] RackMount pos=(-14.55,1.00,-8.52) installed=False
+[00:08:02.668] [FloorManager] RackMount pos=(10.45,1.00,-8.52) installed=True
+[00:08:02.668] [FloorManager] RackMount pos=(0.45,1.00,-8.52) installed=True
+[00:08:02.669] [FloorManager] RackMount pos=(-9.55,1.00,-8.52) installed=False
+[00:08:02.669] [FloorManager] RackMount pos=(5.45,1.00,-8.52) installed=False
+[00:08:02.669] [FloorManager] RackMount pos=(-4.55,1.00,-8.52) installed=False
+[00:08:02.669] [FloorManager] RackMount pos=(15.45,1.00,-8.52) installed=True
+[00:08:02.669] [FloorManager] RackMount pos=(-13.75,1.00,-14.52) installed=False
+[00:08:02.669] [FloorManager] RackMount pos=(11.25,1.00,-14.52) installed=True
+[00:08:02.670] [FloorManager] RackMount pos=(1.25,1.00,-14.52) installed=True
+[00:08:02.670] [FloorManager] RackMount pos=(-8.75,1.00,-14.52) installed=True
+[00:08:02.670] [FloorManager] RackMount pos=(10.45,1.00,13.48) installed=False
+[00:08:02.670] [FloorManager] RackMount pos=(-14.55,1.00,13.48) installed=False
+[00:08:02.670] [FloorManager] RackMount pos=(0.45,1.00,13.48) installed=False
+[00:08:02.670] [FloorManager] RackMount pos=(15.45,1.00,13.48) installed=False
+[00:08:02.670] [FloorManager] RackMount pos=(-9.55,1.00,13.48) installed=False
+[00:08:02.670] [FloorManager] RackMount pos=(5.45,1.00,13.48) installed=False
+[00:08:02.671] [FloorManager] RackMount pos=(-4.55,1.00,13.48) installed=False
+[00:08:02.671] [FloorManager] RackMount pos=(-11.16,1.00,5.48) installed=False
+[00:08:02.671] [FloorManager] RackMount pos=(-6.16,1.00,5.48) installed=False
+[00:08:02.671] [FloorManager] RackMount pos=(3.84,1.00,5.48) installed=False
+[00:08:02.672] [FloorManager] RackMount pos=(13.84,1.00,5.48) installed=False
+[00:08:02.673] [FloorManager] RackMount pos=(8.84,1.00,5.48) installed=False
+[00:08:02.673] [FloorManager] RackMount pos=(-16.16,1.00,5.48) installed=False
+[00:08:02.673] [FloorManager] RackMount pos=(-1.16,1.00,5.48) installed=False
+[00:08:02.673] [FloorManager] RackMount pos=(16.25,1.00,3.48) installed=False
+[00:08:02.673] [FloorManager] RackMount pos=(-8.75,1.00,3.48) installed=False
+[00:08:02.673] [FloorManager] RackMount pos=(-13.75,1.00,3.48) installed=False
+[00:08:02.674] [FloorManager] RackMount pos=(11.25,1.00,3.48) installed=False
+[00:08:02.674] [FloorManager] RackMount pos=(1.25,1.00,3.48) installed=False
+[00:08:02.674] [FloorManager] RackMount pos=(11.25,1.00,-6.52) installed=False
+[00:08:02.674] [FloorManager] RackMount pos=(-13.75,1.00,-6.52) installed=False
+[00:08:02.674] [FloorManager] RackMount pos=(1.25,1.00,-6.52) installed=False
+[00:08:02.674] [FloorManager] RackMount pos=(16.25,1.00,-6.52) installed=True
+[00:08:02.674] [FloorManager] RackMount pos=(-8.75,1.00,-6.52) installed=False
+[00:08:02.674] [FloorManager] RackMount pos=(14.64,1.00,9.48) installed=False
+[00:08:02.675] [FloorManager] RackMount pos=(4.64,1.00,9.48) installed=False
+[00:08:02.675] [FloorManager] RackMount pos=(-5.36,1.00,9.48) installed=False
+[00:08:02.675] [FloorManager] RackMount pos=(-10.36,1.00,9.48) installed=False
+[00:08:02.675] [FloorManager] RackMount pos=(-0.36,1.00,9.48) installed=False
+[00:08:02.675] [FloorManager] RackMount pos=(-15.36,1.00,9.48) installed=False
+[00:08:02.675] [FloorManager] RackMount pos=(9.64,1.00,9.48) installed=False
+[00:08:02.675] [FloorManager] RackMount pos=(0.45,1.00,-2.52) installed=False
+[00:08:02.676] [FloorManager] RackMount pos=(10.45,1.00,-2.52) installed=False
+[00:08:02.676] [FloorManager] RackMount pos=(-14.55,1.00,-2.52) installed=False
+[00:08:02.676] [FloorManager] RackMount pos=(5.45,1.00,-2.52) installed=False
+[00:08:02.676] [FloorManager] RackMount pos=(-4.55,1.00,-2.52) installed=False
+[00:08:02.676] [FloorManager] RackMount pos=(-9.55,1.00,-2.52) installed=False
+[00:08:02.676] [FloorManager] RackMount pos=(15.45,1.00,-2.52) installed=False
+[00:08:02.677] [FloorManager] RackMount pos=(-1.97,1.00,-10.52) installed=True
+[00:08:02.677] [FloorManager] RackMount pos=(8.03,1.00,-10.52) installed=True
+[00:08:02.677] [FloorManager] RackMount pos=(13.03,1.00,-10.52) installed=True
+[00:08:02.677] [FloorManager] RackMount pos=(3.03,1.00,-10.52) installed=False
+[00:08:02.677] [FloorManager] RackMount pos=(-6.97,1.00,-10.52) installed=False
+[00:08:02.677] [FloorManager] RackMount pos=(-11.97,1.00,-10.52) installed=True
+[00:08:02.678] [FloorManager] RackMount pos=(-1.16,1.00,-4.52) installed=False
+[00:08:02.678] [FloorManager] RackMount pos=(8.84,1.00,-4.52) installed=False
+[00:08:02.678] [FloorManager] RackMount pos=(-16.16,1.00,-4.52) installed=False
+[00:08:02.678] [FloorManager] RackMount pos=(13.84,1.00,-4.52) installed=False
+[00:08:02.678] [FloorManager] RackMount pos=(-6.16,1.00,-4.52) installed=False
+[00:08:02.678] [FloorManager] RackMount pos=(3.84,1.00,-4.52) installed=False
+[00:08:02.678] [FloorManager] RackMount pos=(-11.16,1.00,-4.52) installed=False
+[00:08:02.679] [FloorManager] RackMount pos=(-1.97,1.00,13.48) installed=False
+[00:08:02.679] [FloorManager] RackMount pos=(8.03,1.00,13.48) installed=False
+[00:08:02.679] [FloorManager] RackMount pos=(13.03,1.00,13.48) installed=False
+[00:08:02.679] [FloorManager] RackMount pos=(3.03,1.00,13.48) installed=False
+[00:08:02.679] [FloorManager] RackMount pos=(-6.97,1.00,13.48) installed=False
+[00:08:02.679] [FloorManager] RackMount pos=(-11.97,1.00,13.48) installed=False
+[00:08:02.679] [FloorManager] RackMount pos=(-1.97,1.00,-8.52) installed=True
+[00:08:02.680] [FloorManager] RackMount pos=(8.03,1.00,-8.52) installed=True
+[00:08:02.680] [FloorManager] RackMount pos=(3.03,1.00,-8.52) installed=False
+[00:08:02.680] [FloorManager] RackMount pos=(-6.97,1.00,-8.52) installed=False
+[00:08:02.680] [FloorManager] RackMount pos=(-11.97,1.00,-8.52) installed=False
+[00:08:02.680] [FloorManager] RackMount pos=(13.03,1.00,-8.52) installed=True
+[00:08:02.681] [FloorManager] RackMount pos=(-11.97,1.00,-0.52) installed=False
+[00:08:02.681] [FloorManager] RackMount pos=(3.03,1.00,-0.52) installed=False
+[00:08:02.681] [FloorManager] RackMount pos=(-6.97,1.00,-0.52) installed=False
+[00:08:02.681] [FloorManager] RackMount pos=(13.03,1.00,-0.52) installed=False
+[00:08:02.681] [FloorManager] RackMount pos=(8.03,1.00,-0.52) installed=False
+[00:08:02.682] [FloorManager] RackMount pos=(-1.97,1.00,-0.52) installed=False
+[00:08:02.682] [FloorManager] RackMount pos=(-10.36,1.00,1.48) installed=False
+[00:08:02.682] [FloorManager] RackMount pos=(-5.36,1.00,1.48) installed=False
+[00:08:02.682] [FloorManager] RackMount pos=(4.64,1.00,1.48) installed=False
+[00:08:02.682] [FloorManager] RackMount pos=(14.64,1.00,1.48) installed=False
+[00:08:02.682] [FloorManager] RackMount pos=(9.64,1.00,1.48) installed=False
+[00:08:02.682] [FloorManager] RackMount pos=(-15.36,1.00,1.48) installed=False
+[00:08:02.683] [FloorManager] RackMount pos=(-0.36,1.00,1.48) installed=False
+[00:08:02.683] [FloorManager] RackMount pos=(1.25,1.00,-12.52) installed=True
+[00:08:02.683] [FloorManager] RackMount pos=(11.25,1.00,-12.52) installed=True
+[00:08:02.683] [FloorManager] RackMount pos=(-13.75,1.00,-12.52) installed=False
+[00:08:02.683] [FloorManager] RackMount pos=(16.25,1.00,-12.52) installed=True
+[00:08:02.683] [FloorManager] RackMount pos=(-8.75,1.00,-12.52) installed=True
+[00:08:02.683] [FloorManager] RackMount pos=(3.03,1.00,5.48) installed=False
+[00:08:02.683] [FloorManager] RackMount pos=(-6.97,1.00,5.48) installed=False
+[00:08:02.684] [FloorManager] RackMount pos=(-11.97,1.00,5.48) installed=False
+[00:08:02.684] [FloorManager] RackMount pos=(13.03,1.00,5.48) installed=False
+[00:08:02.684] [FloorManager] RackMount pos=(-1.97,1.00,5.48) installed=False
+[00:08:02.684] [FloorManager] RackMount pos=(8.03,1.00,5.48) installed=False
+[00:08:02.684] [FloorManager] RackMount pos=(8.03,1.00,7.48) installed=False
+[00:08:02.684] [FloorManager] RackMount pos=(-1.97,1.00,7.48) installed=False
+[00:08:02.685] [FloorManager] RackMount pos=(13.03,1.00,7.48) installed=False
+[00:08:02.685] [FloorManager] RackMount pos=(-11.97,1.00,7.48) installed=False
+[00:08:02.685] [FloorManager] RackMount pos=(3.03,1.00,7.48) installed=False
+[00:08:02.685] [FloorManager] RackMount pos=(-6.97,1.00,7.48) installed=False
+[00:08:02.685] [FloorManager] RackMount pos=(-1.16,1.00,-2.52) installed=False
+[00:08:02.685] [FloorManager] RackMount pos=(-16.16,1.00,-2.52) installed=False
+[00:08:02.686] [FloorManager] RackMount pos=(8.84,1.00,-2.52) installed=False
+[00:08:02.686] [FloorManager] RackMount pos=(-6.16,1.00,-2.52) installed=False
+[00:08:02.686] [FloorManager] RackMount pos=(3.84,1.00,-2.52) installed=False
+[00:08:02.686] [FloorManager] RackMount pos=(-11.16,1.00,-2.52) installed=False
+[00:08:02.686] [FloorManager] RackMount pos=(13.84,1.00,-2.52) installed=False
+[00:08:02.686] [FloorManager] RackMount pos=(4.64,1.00,-12.52) installed=False
+[00:08:02.686] [FloorManager] RackMount pos=(-5.36,1.00,-12.52) installed=False
+[00:08:02.687] [FloorManager] RackMount pos=(-10.36,1.00,-12.52) installed=True
+[00:08:02.687] [FloorManager] RackMount pos=(14.64,1.00,-12.52) installed=True
+[00:08:02.687] [FloorManager] RackMount pos=(-0.36,1.00,-12.52) installed=True
+[00:08:02.687] [FloorManager] RackMount pos=(-15.36,1.00,-12.52) installed=False
+[00:08:02.688] [FloorManager] RackMount pos=(9.64,1.00,-12.52) installed=True
+[00:08:02.689] [FloorManager] RackMount pos=(-13.75,1.00,1.48) installed=False
+[00:08:02.689] [FloorManager] RackMount pos=(11.25,1.00,1.48) installed=False
+[00:08:02.689] [FloorManager] RackMount pos=(1.25,1.00,1.48) installed=False
+[00:08:02.689] [FloorManager] RackMount pos=(16.25,1.00,1.48) installed=False
+[00:08:02.689] [FloorManager] RackMount pos=(-8.75,1.00,1.48) installed=False
+[00:08:02.689] [FloorManager] RackMount pos=(0.45,1.00,-4.52) installed=False
+[00:08:02.690] [FloorManager] RackMount pos=(-14.55,1.00,-4.52) installed=False
+[00:08:02.690] [FloorManager] RackMount pos=(10.45,1.00,-4.52) installed=False
+[00:08:02.690] [FloorManager] RackMount pos=(15.45,1.00,-4.52) installed=False
+[00:08:02.690] [FloorManager] RackMount pos=(5.45,1.00,-4.52) installed=False
+[00:08:02.690] [FloorManager] RackMount pos=(-4.55,1.00,-4.52) installed=False
+[00:08:02.690] [FloorManager] RackMount pos=(-9.55,1.00,-4.52) installed=False
+[00:08:02.691] [FloorManager] RackMount pos=(-6.16,1.00,-0.52) installed=False
+[00:08:02.691] [FloorManager] RackMount pos=(3.84,1.00,-0.52) installed=False
+[00:08:02.691] [FloorManager] RackMount pos=(-11.16,1.00,-0.52) installed=False
+[00:08:02.691] [FloorManager] RackMount pos=(13.84,1.00,-0.52) installed=False
+[00:08:02.691] [FloorManager] RackMount pos=(-1.16,1.00,-0.52) installed=False
+[00:08:02.691] [FloorManager] RackMount pos=(8.84,1.00,-0.52) installed=False
+[00:08:02.691] [FloorManager] RackMount pos=(-16.16,1.00,-0.52) installed=False
+[00:08:02.692] [FloorManager] RackMount pos=(8.84,1.00,-8.52) installed=True
+[00:08:02.692] [FloorManager] RackMount pos=(-16.16,1.00,-8.52) installed=False
+[00:08:02.692] [FloorManager] RackMount pos=(-1.16,1.00,-8.52) installed=True
+[00:08:02.692] [FloorManager] RackMount pos=(-11.16,1.00,-8.52) installed=False
+[00:08:02.692] [FloorManager] RackMount pos=(-6.16,1.00,-8.52) installed=False
+[00:08:02.692] [FloorManager] RackMount pos=(3.84,1.00,-8.52) installed=False
+[00:08:02.693] [FloorManager] RackMount pos=(13.84,1.00,-8.52) installed=True
+[00:08:02.693] [FloorManager] RackMount pos=(-10.36,1.00,11.48) installed=False
+[00:08:02.693] [FloorManager] RackMount pos=(4.64,1.00,11.48) installed=False
+[00:08:02.693] [FloorManager] RackMount pos=(-5.36,1.00,11.48) installed=False
+[00:08:02.693] [FloorManager] RackMount pos=(14.64,1.00,11.48) installed=False
+[00:08:02.694] [FloorManager] RackMount pos=(9.64,1.00,11.48) installed=False
+[00:08:02.694] [FloorManager] RackMount pos=(-15.36,1.00,11.48) installed=False
+[00:08:02.694] [FloorManager] RackMount pos=(-0.36,1.00,11.48) installed=False
+[00:08:02.694] [FloorManager] RackMount pos=(-16.16,1.00,13.48) installed=False
+[00:08:02.694] [FloorManager] RackMount pos=(8.84,1.00,13.48) installed=False
+[00:08:02.694] [FloorManager] RackMount pos=(-1.16,1.00,13.48) installed=False
+[00:08:02.695] [FloorManager] RackMount pos=(13.84,1.00,13.48) installed=False
+[00:08:02.697] [FloorManager] RackMount pos=(-11.16,1.00,13.48) installed=False
+[00:08:02.698] [FloorManager] RackMount pos=(-6.16,1.00,13.48) installed=False
+[00:08:02.698] [FloorManager] RackMount pos=(3.84,1.00,13.48) installed=False
+[00:08:02.698] [FloorManager] RackMount pos=(-9.55,1.00,5.48) installed=False
+[00:08:02.698] [FloorManager] RackMount pos=(5.45,1.00,5.48) installed=False
+[00:08:02.698] [FloorManager] RackMount pos=(-4.55,1.00,5.48) installed=False
+[00:08:02.698] [FloorManager] RackMount pos=(15.45,1.00,5.48) installed=False
+[00:08:02.699] [FloorManager] RackMount pos=(-14.55,1.00,5.48) installed=False
+[00:08:02.699] [FloorManager] RackMount pos=(10.45,1.00,5.48) installed=False
+[00:08:02.699] [FloorManager] RackMount pos=(0.45,1.00,5.48) installed=False
+[00:08:02.699] [FloorManager] RackMount pos=(0.45,1.00,7.48) installed=False
+[00:08:02.699] [FloorManager] RackMount pos=(-14.55,1.00,7.48) installed=False
+[00:08:02.699] [FloorManager] RackMount pos=(10.45,1.00,7.48) installed=False
+[00:08:02.699] [FloorManager] RackMount pos=(15.45,1.00,7.48) installed=False
+[00:08:02.700] [FloorManager] RackMount pos=(5.45,1.00,7.48) installed=False
+[00:08:02.700] [FloorManager] RackMount pos=(-4.55,1.00,7.48) installed=False
+[00:08:02.700] [FloorManager] RackMount pos=(-9.55,1.00,7.48) installed=False
+[00:08:02.700] [FloorManager] RackMount pos=(-13.75,1.00,11.48) installed=False
+[00:08:02.700] [FloorManager] RackMount pos=(11.25,1.00,11.48) installed=False
+[00:08:02.700] [FloorManager] RackMount pos=(1.25,1.00,11.48) installed=False
+[00:08:02.701] [FloorManager] RackMount pos=(16.25,1.00,11.48) installed=False
+[00:08:02.701] [FloorManager] RackMount pos=(-8.75,1.00,11.48) installed=False
+[00:08:02.701] [FloorManager] RackMount pos=(8.03,1.00,-4.52) installed=False
+[00:08:02.702] [FloorManager] RackMount pos=(-1.97,1.00,-4.52) installed=False
+[00:08:02.702] [FloorManager] RackMount pos=(13.03,1.00,-4.52) installed=False
+[00:08:02.702] [FloorManager] RackMount pos=(-11.97,1.00,-4.52) installed=False
+[00:08:02.702] [FloorManager] RackMount pos=(3.03,1.00,-4.52) installed=False
+[00:08:02.703] [FloorManager] RackMount pos=(-6.97,1.00,-4.52) installed=False
+[00:08:02.704] [FloorManager] RackMount pos=(8.84,1.00,-10.52) installed=True
+[00:08:02.704] [FloorManager] RackMount pos=(-16.16,1.00,-10.52) installed=False
+[00:08:02.704] [FloorManager] RackMount pos=(-1.16,1.00,-10.52) installed=True
+[00:08:02.704] [FloorManager] RackMount pos=(13.84,1.00,-10.52) installed=True
+[00:08:02.704] [FloorManager] RackMount pos=(-11.16,1.00,-10.52) installed=True
+[00:08:02.704] [FloorManager] RackMount pos=(-6.16,1.00,-10.52) installed=False
+[00:08:02.705] [FloorManager] RackMount pos=(3.84,1.00,-10.52) installed=False
+[00:08:02.705] [FloorManager] === RACKMOUNT SUMMARY: 84/512 installed ===
+[00:08:02.720] [FloorManager] === MAINSCREEN HIERARCHY ===
+[00:08:02.723] [FloorManager] [MainPage] components=[RectTransform, CanvasRenderer, Image, ] size=(-20,-20)
+[00:08:02.724] [FloorManager]   [Button Grid] components=[RectTransform, GridLayoutGroup, ] size=(0,0)
+[00:08:02.724] [FloorManager]     [Icon Shop bcg] components=[RectTransform, CanvasRenderer, Image, ] size=(100,100)
+[00:08:02.724] [FloorManager]       [Button Icon Shop] components=[RectTransform, ButtonExtended, CanvasRenderer, Image, ] size=(0,0)
+[00:08:02.724] [FloorManager]     [Icon Network Map bcg] components=[RectTransform, CanvasRenderer, Image, ] size=(100,100)
+[00:08:02.724] [FloorManager]       [Button Icon NetworkMap] components=[RectTransform, ButtonExtended, CanvasRenderer, Image, ] size=(0,0)
+[00:08:02.725] [FloorManager]     [Icon Asset Management bcg] components=[RectTransform, CanvasRenderer, Image, ] size=(100,100)
+[00:08:02.725] [FloorManager]       [Button Icon] components=[RectTransform, ButtonExtended, CanvasRenderer, Image, ] size=(0,0)
+[00:08:02.725] [FloorManager]       [NOtDEMO] components=[RectTransform, CanvasRenderer, Image, ] size=(0,0)
+[00:08:02.725] [FloorManager]     [Icon Balance sheet bcg] components=[RectTransform, CanvasRenderer, Image, ] size=(100,100)
+[00:08:02.726] [FloorManager]       [Button Icon] components=[RectTransform, ButtonExtended, CanvasRenderer, Image, ] size=(0,0)
+[00:08:02.726] [FloorManager]     [Icon Hire bcg] components=[RectTransform, CanvasRenderer, Image, ] size=(100,100)
+[00:08:02.726] [FloorManager]       [Button Icon] components=[RectTransform, ButtonExtended, CanvasRenderer, Image, ] size=(0,0)
+[00:08:02.726] [FloorManager]     [Btn_FloorManager] components=[RectTransform, CanvasRenderer, Image, Button, ] size=(100,100)
+[00:08:02.727] [FloorManager]       [Label] components=[RectTransform, CanvasRenderer, TextMeshProUGUI, ] size=(0,0)
+[00:08:02.727] [FloorManager]   [Button Return] components=[RectTransform, ButtonExtended, CanvasRenderer, Image, ] size=(100,50)
+[00:08:02.727] [FloorManager]     [Image] components=[RectTransform, CanvasRenderer, Image, ] size=(-40,-10)
+[00:08:05.449] [AD] Load cooldown active: 8.0s remaining
+[00:08:07.451] [AD] Load cooldown active: 6.0s remaining
+[00:08:09.452] [AD] Load cooldown active: 4.0s remaining
+[00:08:11.456] [AD] Load cooldown active: 2.0s remaining
+[00:08:13.459] [AD] Load cooldown expired — running diagnostics next cycle
+[00:08:15.464] [AD] === POST-LOAD DIAGNOSTIC ===
+[00:08:15.467] [AD]   Tech Andy: isBusy=True hasJob=False no job
+[00:08:15.467] [AD]   Tech Steve: isBusy=False (CurrentJob threw — IL2CPP null)
+[00:08:15.467] [AD]   Tech Dave: isBusy=False (CurrentJob threw — IL2CPP null)
+[00:08:15.468] [AD]   Tech Greg: isBusy=False (CurrentJob threw — IL2CPP null)
+[00:08:15.468] [AD]   Tech Elsa: isBusy=False (CurrentJob threw — IL2CPP null)
+[00:08:15.468] [AD]   Tech John: isBusy=False (CurrentJob threw — IL2CPP null)
+[00:08:15.469] [AD]   Game queue: 1 active, 0 queued
+[00:08:15.469] [AD]   Active[0]: server=Server.Blue2_-96012 switch=null tech=Andy
+[00:08:15.469] [AD] === END DIAGNOSTIC ===
+[00:08:15.470] [AD] Skipping dispatch this cycle — will start next poll
+[00:08:17.506] [AutoDispatcher] [AD] server_Server.Blue2_-96012 already in active jobs — skipping

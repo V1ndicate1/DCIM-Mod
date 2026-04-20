@@ -1,0 +1,53 @@
+[01:29:47.576] ------------------------------
+[01:29:47.576] FloorManager v0.0.3
+[01:29:47.576] by V1ndicate1
+[01:29:47.576] Assembly: FloorManager.dll
+[01:29:47.576] ------------------------------
+[01:29:47.577] ------------------------------
+[01:29:47.577] 2 Mods loaded.
+
+[01:29:48.847] [Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[01:29:50.624] [Il2CppInterop] Registered mono type MelonLoader.Support.MonoEnumeratorWrapper in il2cpp domain
+[01:29:50.691] Support Module Loaded: D:\SteamLibrary\steamapps\common\Data Center\MelonLoader\Dependencies\SupportModules\Il2Cpp.dll
+[01:29:50.792] [Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[01:29:50.799] [AutoDispatcher] v1.0.0 loaded. Enabled=True EolEnabled=True WarnEnabled=False
+[01:29:50.800] [FloorManager] v0.0.3 loaded.
+[01:29:51.199] [Il2CppInterop] Registered mono type MelonLoader.Support.SM_Component in il2cpp domain
+[01:29:51.218] [FloorManager] Clock coroutine started.
+[01:29:51.221] Registered mono icall UnityEngine.Transform::SetAsLastSibling in il2cpp domain
+Setting breakpad minidump AppID = 4170200
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198248662418 [API loaded no]
+[01:29:54.443] [FloorManager] Laptop app injected.
+[01:29:55.952] [AD] Load detected — clearing state, starting 10s cooldown
+[01:29:55.953] [FloorManager] Save loaded.
+[01:29:58.124] [AD] Load cooldown active: 8.0s remaining
+[01:30:00.195] [AD] Load cooldown active: 6.0s remaining
+[01:30:02.200] [AD] Load cooldown active: 4.0s remaining
+[01:30:02.671] [FloorManager] [FloorManager] Status map: 60 racks with devices (328 servers, 67 switches scanned)
+[01:30:04.203] [AD] Load cooldown active: 2.0s remaining
+[01:30:06.207] [AD] Load cooldown expired — running diagnostics next cycle
+[01:30:08.211] [AD] === POST-LOAD DIAGNOSTIC ===
+[01:30:08.213] [AD]   Tech Andy: isBusy=True hasJob=False no job
+[01:30:08.214] [AD]   Tech Steve: isBusy=False (CurrentJob threw — IL2CPP null)
+[01:30:08.214] [AD]   Tech Dave: isBusy=False (CurrentJob threw — IL2CPP null)
+[01:30:08.214] [AD]   Tech Greg: isBusy=False (CurrentJob threw — IL2CPP null)
+[01:30:08.214] [AD]   Tech Elsa: isBusy=False (CurrentJob threw — IL2CPP null)
+[01:30:08.215] [AD]   Tech John: isBusy=False (CurrentJob threw — IL2CPP null)
+[01:30:08.215] [AD]   Game queue: 1 active, 0 queued
+[01:30:08.216] [AD]   Active[0]: server=Server.Blue2_-96012 switch=null tech=Andy
+[01:30:08.216] [AD] === END DIAGNOSTIC ===
+[01:30:08.216] [AD] Skipping dispatch this cycle — will start next poll
+[01:30:10.251] [AutoDispatcher] [AD] server_Server.Blue2_-96012 already in active jobs — skipping
+[01:30:16.447] [FloorManager] [FloorManager] DeviceList: rackId=-120994 positionIds=47
+[01:30:16.466] [FloorManager] [FloorManager] DeviceList: 328 servers total, 324 with positions, 7 matched this rack
+[01:30:21.905] [FloorManager] [FloorManager] DeviceList: rackId=-120994 positionIds=47
+[01:30:21.923] [FloorManager] [FloorManager] DeviceList: 328 servers total, 324 with positions, 7 matched this rack
+[01:30:24.538] [FloorManager] [FloorManager] Status map: 60 racks with devices (328 servers, 67 switches scanned)
+[01:30:25.588] [FloorManager] [FloorManager] DeviceList: rackId=-122672 positionIds=47
+[01:30:25.606] [FloorManager] [FloorManager] DeviceList: 328 servers total, 324 with positions, 7 matched this rack
+[01:30:28.208] [FloorManager] [FloorManager] Status map: 60 racks with devices (328 servers, 67 switches scanned)
+[01:31:28.895] [FloorManager] [FloorManager] Status map: 60 racks with devices (328 servers, 67 switches scanned)
+[01:31:37.922] [FloorManager] [FloorManager] DeviceList: rackId=-120994 positionIds=47
+[01:31:37.941] [FloorManager] [FloorManager] DeviceList: 328 servers total, 324 with positions, 7 matched this rack
+[01:32:01.883] [FloorManager] [FloorManager] DeviceList: rackId=-120994 positionIds=47
+[01:32:01.901] [FloorManager] [FloorManager] DeviceList: 328 servers total, 324 with positions, 7 matched this rack

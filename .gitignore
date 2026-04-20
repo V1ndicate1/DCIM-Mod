@@ -1,0 +1,11 @@
+bin/
+obj/
+.claude/
+publish/
+publish_fd/
+*.user
+*.suo
+.vs/
+.idea/
+*.pdb
+Properties/launchSettings.json

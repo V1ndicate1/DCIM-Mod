@@ -1,0 +1,381 @@
+[01:11:47.183] ------------------------------
+[01:11:47.183] FloorManager v0.0.3
+[01:11:47.183] by V1ndicate1
+[01:11:47.183] Assembly: FloorManager.dll
+[01:11:47.183] ------------------------------
+[01:11:47.183] ------------------------------
+[01:11:47.184] 2 Mods loaded.
+
+[01:11:48.442] [Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[01:11:50.414] [Il2CppInterop] Registered mono type MelonLoader.Support.MonoEnumeratorWrapper in il2cpp domain
+[01:11:50.478] Support Module Loaded: D:\SteamLibrary\steamapps\common\Data Center\MelonLoader\Dependencies\SupportModules\Il2Cpp.dll
+[01:11:50.579] [Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[01:11:50.585] [AutoDispatcher] v1.0.0 loaded. Enabled=True EolEnabled=True WarnEnabled=False
+[01:11:50.586] [FloorManager] v0.0.3 loaded.
+[01:11:50.962] [Il2CppInterop] Registered mono type MelonLoader.Support.SM_Component in il2cpp domain
+[01:11:50.983] Registered mono icall UnityEngine.Transform::SetAsLastSibling in il2cpp domain
+Setting breakpad minidump AppID = 4170200
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198248662418 [API loaded no]
+[01:11:53.870] [FloorManager] Laptop app injected.
+[01:11:55.387] [AD] Load detected — clearing state, starting 10s cooldown
+[01:11:55.388] [FloorManager] Save loaded.
+[01:11:57.927] [AD] Load cooldown active: 8.0s remaining
+[01:11:59.919] [AD] Load cooldown active: 6.0s remaining
+[01:12:01.922] [AD] Load cooldown active: 4.0s remaining
+[01:12:03.924] [AD] Load cooldown active: 2.0s remaining
+[01:12:05.535] [FloorManager] [FloorManager] DIAG: Total servers in scene = 328
+[01:12:05.536] [FloorManager] [FloorManager] DIAG server[0]: Objects > UsableObjects > Server.Yellow2(Clone)
+[01:12:05.536] [FloorManager] [FloorManager] DIAG server[1]: Objects > UsableObjects > Server.Blue2(Clone)
+[01:12:05.536] [FloorManager] [FloorManager] DIAG server[2]: Objects > UsableObjects > Server.Purple1(Clone)
+[01:12:05.580] [FloorManager] [FloorManager] DIAG Rack[18,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.581] [FloorManager] [FloorManager] DIAG Rack[18,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.582] [FloorManager] [FloorManager] DIAG Rack[9,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.582] [FloorManager] [FloorManager] DIAG Rack[9,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.583] [FloorManager] [FloorManager] DIAG Rack[4,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.583] [FloorManager] [FloorManager] DIAG Rack[4,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.583] [FloorManager] [FloorManager] DIAG Rack[23,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.584] [FloorManager] [FloorManager] DIAG Rack[23,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.584] [FloorManager] [FloorManager] DIAG Rack[21,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.584] [FloorManager] [FloorManager] DIAG Rack[21,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.585] [FloorManager] [FloorManager] DIAG Rack[16,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.585] [FloorManager] [FloorManager] DIAG Rack[16,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.585] [FloorManager] [FloorManager] DIAG Rack[7,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.585] [FloorManager] [FloorManager] DIAG Rack[7,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.586] [FloorManager] [FloorManager] DIAG Rack[21,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.586] [FloorManager] [FloorManager] DIAG Rack[21,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.586] [FloorManager] [FloorManager] DIAG Rack[2,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.587] [FloorManager] [FloorManager] DIAG Rack[2,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.587] [FloorManager] [FloorManager] DIAG Rack[16,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.587] [FloorManager] [FloorManager] DIAG Rack[16,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.587] [FloorManager] [FloorManager] DIAG Rack[7,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.588] [FloorManager] [FloorManager] DIAG Rack[7,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.588] [FloorManager] [FloorManager] DIAG Rack[22,4]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.588] [FloorManager] [FloorManager] DIAG Rack[22,4]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.589] [FloorManager] [FloorManager] DIAG Rack[18,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.589] [FloorManager] [FloorManager] DIAG Rack[18,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.589] [FloorManager] [FloorManager] DIAG Rack[9,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.589] [FloorManager] [FloorManager] DIAG Rack[9,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.590] [FloorManager] [FloorManager] DIAG Rack[23,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.590] [FloorManager] [FloorManager] DIAG Rack[23,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.590] [FloorManager] [FloorManager] DIAG Rack[17,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.591] [FloorManager] [FloorManager] DIAG Rack[17,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.591] [FloorManager] [FloorManager] DIAG Rack[8,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.591] [FloorManager] [FloorManager] DIAG Rack[8,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.592] [FloorManager] [FloorManager] DIAG Rack[3,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.592] [FloorManager] [FloorManager] DIAG Rack[3,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.592] [FloorManager] [FloorManager] DIAG Rack[13,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.593] [FloorManager] [FloorManager] DIAG Rack[13,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.594] [FloorManager] [FloorManager] DIAG Rack[22,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.594] [FloorManager] [FloorManager] DIAG Rack[22,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.594] [FloorManager] [FloorManager] DIAG Rack[19,4]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.595] [FloorManager] [FloorManager] DIAG Rack[19,4]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.595] [FloorManager] [FloorManager] DIAG Rack[6,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.595] [FloorManager] [FloorManager] DIAG Rack[6,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.595] [FloorManager] [FloorManager] DIAG Rack[15,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.596] [FloorManager] [FloorManager] DIAG Rack[15,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.596] [FloorManager] [FloorManager] DIAG Rack[1,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.596] [FloorManager] [FloorManager] DIAG Rack[1,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.596] [FloorManager] [FloorManager] DIAG Rack[20,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.597] [FloorManager] [FloorManager] DIAG Rack[20,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.597] [FloorManager] [FloorManager] DIAG Rack[5,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.597] [FloorManager] [FloorManager] DIAG Rack[5,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.598] [FloorManager] [FloorManager] DIAG Rack[14,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.598] [FloorManager] [FloorManager] DIAG Rack[14,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.598] [FloorManager] [FloorManager] DIAG Rack[10,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.598] [FloorManager] [FloorManager] DIAG Rack[10,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.599] [FloorManager] [FloorManager] DIAG Rack[0,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.599] [FloorManager] [FloorManager] DIAG Rack[0,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.599] [FloorManager] [FloorManager] DIAG Rack[19,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.600] [FloorManager] [FloorManager] DIAG Rack[19,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.600] [FloorManager] [FloorManager] DIAG Rack[8,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.600] [FloorManager] [FloorManager] DIAG Rack[8,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.600] [FloorManager] [FloorManager] DIAG Rack[17,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.601] [FloorManager] [FloorManager] DIAG Rack[17,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.601] [FloorManager] [FloorManager] DIAG Rack[3,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.601] [FloorManager] [FloorManager] DIAG Rack[3,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.602] [FloorManager] [FloorManager] DIAG Rack[22,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.602] [FloorManager] [FloorManager] DIAG Rack[22,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.602] [FloorManager] [FloorManager] DIAG Rack[20,4]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.602] [FloorManager] [FloorManager] DIAG Rack[20,4]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.603] [FloorManager] [FloorManager] DIAG Rack[15,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.603] [FloorManager] [FloorManager] DIAG Rack[15,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.603] [FloorManager] [FloorManager] DIAG Rack[6,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.604] [FloorManager] [FloorManager] DIAG Rack[6,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.604] [FloorManager] [FloorManager] DIAG Rack[1,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.604] [FloorManager] [FloorManager] DIAG Rack[1,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.604] [FloorManager] [FloorManager] DIAG Rack[11,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.605] [FloorManager] [FloorManager] DIAG Rack[11,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.605] [FloorManager] [FloorManager] DIAG Rack[20,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.605] [FloorManager] [FloorManager] DIAG Rack[20,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.605] [FloorManager] [FloorManager] DIAG Rack[14,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.606] [FloorManager] [FloorManager] DIAG Rack[14,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.606] [FloorManager] [FloorManager] DIAG Rack[5,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.607] [FloorManager] [FloorManager] DIAG Rack[5,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.607] [FloorManager] [FloorManager] DIAG Rack[0,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.609] [FloorManager] [FloorManager] DIAG Rack[0,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.609] [FloorManager] [FloorManager] DIAG Rack[19,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.609] [FloorManager] [FloorManager] DIAG Rack[19,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.610] [FloorManager] [FloorManager] DIAG Rack[2,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.610] [FloorManager] [FloorManager] DIAG Rack[2,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.611] [FloorManager] [FloorManager] DIAG Rack[12,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.611] [FloorManager] [FloorManager] DIAG Rack[12,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.612] [FloorManager] [FloorManager] DIAG Rack[21,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.612] [FloorManager] [FloorManager] DIAG Rack[21,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.612] [FloorManager] [FloorManager] DIAG Rack[16,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.612] [FloorManager] [FloorManager] DIAG Rack[16,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.613] [FloorManager] [FloorManager] DIAG Rack[7,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.613] [FloorManager] [FloorManager] DIAG Rack[7,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.613] [FloorManager] [FloorManager] DIAG Rack[17,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.613] [FloorManager] [FloorManager] DIAG Rack[17,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.614] [FloorManager] [FloorManager] DIAG Rack[8,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.614] [FloorManager] [FloorManager] DIAG Rack[8,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.615] [FloorManager] [FloorManager] DIAG Rack[22,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.615] [FloorManager] [FloorManager] DIAG Rack[22,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.615] [FloorManager] [FloorManager] DIAG Rack[3,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.615] [FloorManager] [FloorManager] DIAG Rack[3,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.616] [FloorManager] [FloorManager] DIAG Rack[21,4]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.616] [FloorManager] [FloorManager] DIAG Rack[21,4]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.616] [FloorManager] [FloorManager] DIAG Rack[23,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.616] [FloorManager] [FloorManager] DIAG Rack[23,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.617] [FloorManager] [FloorManager] DIAG Rack[17,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.617] [FloorManager] [FloorManager] DIAG Rack[17,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.617] [FloorManager] [FloorManager] DIAG Rack[8,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.617] [FloorManager] [FloorManager] DIAG Rack[8,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.618] [FloorManager] [FloorManager] DIAG Rack[22,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.618] [FloorManager] [FloorManager] DIAG Rack[22,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.619] [FloorManager] [FloorManager] DIAG Rack[18,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.619] [FloorManager] [FloorManager] DIAG Rack[18,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.619] [FloorManager] [FloorManager] DIAG Rack[9,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.619] [FloorManager] [FloorManager] DIAG Rack[9,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.620] [FloorManager] [FloorManager] DIAG Rack[4,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.620] [FloorManager] [FloorManager] DIAG Rack[4,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.620] [FloorManager] [FloorManager] DIAG Rack[23,4]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.620] [FloorManager] [FloorManager] DIAG Rack[23,4]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.621] [FloorManager] [FloorManager] DIAG Rack[5,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.621] [FloorManager] [FloorManager] DIAG Rack[5,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.621] [FloorManager] [FloorManager] DIAG Rack[14,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.621] [FloorManager] [FloorManager] DIAG Rack[14,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.622] [FloorManager] [FloorManager] DIAG Rack[19,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.622] [FloorManager] [FloorManager] DIAG Rack[19,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.622] [FloorManager] [FloorManager] DIAG Rack[0,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.622] [FloorManager] [FloorManager] DIAG Rack[0,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.627] [FloorManager] [FloorManager] DIAG Rack[5,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.627] [FloorManager] [FloorManager] DIAG Rack[5,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.628] [FloorManager] [FloorManager] DIAG Rack[14,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.628] [FloorManager] [FloorManager] DIAG Rack[14,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.628] [FloorManager] [FloorManager] DIAG Rack[19,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.628] [FloorManager] [FloorManager] DIAG Rack[19,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.629] [FloorManager] [FloorManager] DIAG Rack[9,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.629] [FloorManager] [FloorManager] DIAG Rack[9,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.629] [FloorManager] [FloorManager] DIAG Rack[18,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.629] [FloorManager] [FloorManager] DIAG Rack[18,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.630] [FloorManager] [FloorManager] DIAG Rack[23,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.630] [FloorManager] [FloorManager] DIAG Rack[23,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.630] [FloorManager] [FloorManager] DIAG Rack[4,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.630] [FloorManager] [FloorManager] DIAG Rack[4,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.631] [FloorManager] [FloorManager] DIAG Rack[2,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.631] [FloorManager] [FloorManager] DIAG Rack[2,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.632] [FloorManager] [FloorManager] DIAG Rack[21,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.632] [FloorManager] [FloorManager] DIAG Rack[21,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.632] [FloorManager] [FloorManager] DIAG Rack[7,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.633] [FloorManager] [FloorManager] DIAG Rack[7,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.633] [FloorManager] [FloorManager] DIAG Rack[16,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.633] [FloorManager] [FloorManager] DIAG Rack[16,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.633] [FloorManager] [FloorManager] DIAG Rack[15,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.634] [FloorManager] [FloorManager] DIAG Rack[15,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.634] [FloorManager] [FloorManager] DIAG Rack[6,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.634] [FloorManager] [FloorManager] DIAG Rack[6,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.634] [FloorManager] [FloorManager] DIAG Rack[20,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.635] [FloorManager] [FloorManager] DIAG Rack[20,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.635] [FloorManager] [FloorManager] DIAG Rack[15,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.635] [FloorManager] [FloorManager] DIAG Rack[15,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.636] [FloorManager] [FloorManager] DIAG Rack[6,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.636] [FloorManager] [FloorManager] DIAG Rack[6,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.636] [FloorManager] [FloorManager] DIAG Rack[20,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.636] [FloorManager] [FloorManager] DIAG Rack[20,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.637] [FloorManager] [FloorManager] DIAG Rack[1,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:05.637] [FloorManager] [FloorManager] DIAG Rack[1,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:05.927] [AD] Load cooldown expired — running diagnostics next cycle
+[01:12:07.928] [AD] === POST-LOAD DIAGNOSTIC ===
+[01:12:07.930] [AD]   Tech Andy: isBusy=True hasJob=False no job
+[01:12:07.931] [AD]   Tech Steve: isBusy=False (CurrentJob threw — IL2CPP null)
+[01:12:07.931] [AD]   Tech Dave: isBusy=False (CurrentJob threw — IL2CPP null)
+[01:12:07.931] [AD]   Tech Greg: isBusy=False (CurrentJob threw — IL2CPP null)
+[01:12:07.931] [AD]   Tech Elsa: isBusy=False (CurrentJob threw — IL2CPP null)
+[01:12:07.931] [AD]   Tech John: isBusy=False (CurrentJob threw — IL2CPP null)
+[01:12:07.932] [AD]   Game queue: 1 active, 0 queued
+[01:12:07.932] [AD]   Active[0]: server=Server.Blue2_-96012 switch=null tech=Andy
+[01:12:07.933] [AD] === END DIAGNOSTIC ===
+[01:12:07.933] [AD] Skipping dispatch this cycle — will start next poll
+[01:12:09.460] [FloorManager] [FloorManager] DIAG: Total servers in scene = 328
+[01:12:09.461] [FloorManager] [FloorManager] DIAG server[0]: Objects > UsableObjects > Server.Yellow2(Clone)
+[01:12:09.461] [FloorManager] [FloorManager] DIAG server[1]: Objects > UsableObjects > Server.Blue2(Clone)
+[01:12:09.462] [FloorManager] [FloorManager] DIAG server[2]: Objects > UsableObjects > Server.Purple1(Clone)
+[01:12:09.500] [FloorManager] [FloorManager] DIAG Rack[18,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.501] [FloorManager] [FloorManager] DIAG Rack[18,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.501] [FloorManager] [FloorManager] DIAG Rack[9,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.502] [FloorManager] [FloorManager] DIAG Rack[9,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.502] [FloorManager] [FloorManager] DIAG Rack[4,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.502] [FloorManager] [FloorManager] DIAG Rack[4,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.503] [FloorManager] [FloorManager] DIAG Rack[23,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.503] [FloorManager] [FloorManager] DIAG Rack[23,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.503] [FloorManager] [FloorManager] DIAG Rack[21,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.504] [FloorManager] [FloorManager] DIAG Rack[21,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.504] [FloorManager] [FloorManager] DIAG Rack[16,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.504] [FloorManager] [FloorManager] DIAG Rack[16,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.504] [FloorManager] [FloorManager] DIAG Rack[7,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.505] [FloorManager] [FloorManager] DIAG Rack[7,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.505] [FloorManager] [FloorManager] DIAG Rack[21,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.505] [FloorManager] [FloorManager] DIAG Rack[21,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.506] [FloorManager] [FloorManager] DIAG Rack[2,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.506] [FloorManager] [FloorManager] DIAG Rack[2,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.506] [FloorManager] [FloorManager] DIAG Rack[16,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.506] [FloorManager] [FloorManager] DIAG Rack[16,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.507] [FloorManager] [FloorManager] DIAG Rack[7,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.507] [FloorManager] [FloorManager] DIAG Rack[7,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.507] [FloorManager] [FloorManager] DIAG Rack[22,4]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.508] [FloorManager] [FloorManager] DIAG Rack[22,4]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.508] [FloorManager] [FloorManager] DIAG Rack[18,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.508] [FloorManager] [FloorManager] DIAG Rack[18,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.508] [FloorManager] [FloorManager] DIAG Rack[9,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.509] [FloorManager] [FloorManager] DIAG Rack[9,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.509] [FloorManager] [FloorManager] DIAG Rack[23,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.509] [FloorManager] [FloorManager] DIAG Rack[23,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.509] [FloorManager] [FloorManager] DIAG Rack[17,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.510] [FloorManager] [FloorManager] DIAG Rack[17,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.510] [FloorManager] [FloorManager] DIAG Rack[8,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.510] [FloorManager] [FloorManager] DIAG Rack[8,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.511] [FloorManager] [FloorManager] DIAG Rack[3,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.511] [FloorManager] [FloorManager] DIAG Rack[3,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.511] [FloorManager] [FloorManager] DIAG Rack[13,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.512] [FloorManager] [FloorManager] DIAG Rack[13,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.512] [FloorManager] [FloorManager] DIAG Rack[22,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.512] [FloorManager] [FloorManager] DIAG Rack[22,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.513] [FloorManager] [FloorManager] DIAG Rack[19,4]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.513] [FloorManager] [FloorManager] DIAG Rack[19,4]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.513] [FloorManager] [FloorManager] DIAG Rack[6,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.513] [FloorManager] [FloorManager] DIAG Rack[6,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.514] [FloorManager] [FloorManager] DIAG Rack[15,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.514] [FloorManager] [FloorManager] DIAG Rack[15,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.514] [FloorManager] [FloorManager] DIAG Rack[1,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.514] [FloorManager] [FloorManager] DIAG Rack[1,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.515] [FloorManager] [FloorManager] DIAG Rack[20,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.515] [FloorManager] [FloorManager] DIAG Rack[20,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.517] [FloorManager] [FloorManager] DIAG Rack[5,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.517] [FloorManager] [FloorManager] DIAG Rack[5,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.517] [FloorManager] [FloorManager] DIAG Rack[14,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.517] [FloorManager] [FloorManager] DIAG Rack[14,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.518] [FloorManager] [FloorManager] DIAG Rack[10,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.518] [FloorManager] [FloorManager] DIAG Rack[10,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.518] [FloorManager] [FloorManager] DIAG Rack[0,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.519] [FloorManager] [FloorManager] DIAG Rack[0,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.519] [FloorManager] [FloorManager] DIAG Rack[19,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.519] [FloorManager] [FloorManager] DIAG Rack[19,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.520] [FloorManager] [FloorManager] DIAG Rack[8,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.520] [FloorManager] [FloorManager] DIAG Rack[8,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.520] [FloorManager] [FloorManager] DIAG Rack[17,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.520] [FloorManager] [FloorManager] DIAG Rack[17,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.521] [FloorManager] [FloorManager] DIAG Rack[3,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.521] [FloorManager] [FloorManager] DIAG Rack[3,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.521] [FloorManager] [FloorManager] DIAG Rack[22,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.521] [FloorManager] [FloorManager] DIAG Rack[22,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.522] [FloorManager] [FloorManager] DIAG Rack[20,4]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.522] [FloorManager] [FloorManager] DIAG Rack[20,4]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.522] [FloorManager] [FloorManager] DIAG Rack[15,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.522] [FloorManager] [FloorManager] DIAG Rack[15,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.523] [FloorManager] [FloorManager] DIAG Rack[6,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.523] [FloorManager] [FloorManager] DIAG Rack[6,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.523] [FloorManager] [FloorManager] DIAG Rack[1,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.524] [FloorManager] [FloorManager] DIAG Rack[1,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.524] [FloorManager] [FloorManager] DIAG Rack[11,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.524] [FloorManager] [FloorManager] DIAG Rack[11,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.525] [FloorManager] [FloorManager] DIAG Rack[20,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.525] [FloorManager] [FloorManager] DIAG Rack[20,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.525] [FloorManager] [FloorManager] DIAG Rack[14,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.525] [FloorManager] [FloorManager] DIAG Rack[14,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.526] [FloorManager] [FloorManager] DIAG Rack[5,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.526] [FloorManager] [FloorManager] DIAG Rack[5,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.526] [FloorManager] [FloorManager] DIAG Rack[0,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.526] [FloorManager] [FloorManager] DIAG Rack[0,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.527] [FloorManager] [FloorManager] DIAG Rack[19,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.527] [FloorManager] [FloorManager] DIAG Rack[19,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.527] [FloorManager] [FloorManager] DIAG Rack[2,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.528] [FloorManager] [FloorManager] DIAG Rack[2,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.528] [FloorManager] [FloorManager] DIAG Rack[12,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.528] [FloorManager] [FloorManager] DIAG Rack[12,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.528] [FloorManager] [FloorManager] DIAG Rack[21,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.529] [FloorManager] [FloorManager] DIAG Rack[21,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.529] [FloorManager] [FloorManager] DIAG Rack[16,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.529] [FloorManager] [FloorManager] DIAG Rack[16,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.530] [FloorManager] [FloorManager] DIAG Rack[7,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.530] [FloorManager] [FloorManager] DIAG Rack[7,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.530] [FloorManager] [FloorManager] DIAG Rack[17,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.530] [FloorManager] [FloorManager] DIAG Rack[17,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.531] [FloorManager] [FloorManager] DIAG Rack[8,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.531] [FloorManager] [FloorManager] DIAG Rack[8,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.531] [FloorManager] [FloorManager] DIAG Rack[22,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.533] [FloorManager] [FloorManager] DIAG Rack[22,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.533] [FloorManager] [FloorManager] DIAG Rack[3,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.533] [FloorManager] [FloorManager] DIAG Rack[3,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.534] [FloorManager] [FloorManager] DIAG Rack[21,4]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.534] [FloorManager] [FloorManager] DIAG Rack[21,4]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.534] [FloorManager] [FloorManager] DIAG Rack[23,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.534] [FloorManager] [FloorManager] DIAG Rack[23,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.535] [FloorManager] [FloorManager] DIAG Rack[17,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.535] [FloorManager] [FloorManager] DIAG Rack[17,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.535] [FloorManager] [FloorManager] DIAG Rack[8,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.536] [FloorManager] [FloorManager] DIAG Rack[8,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.536] [FloorManager] [FloorManager] DIAG Rack[22,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.536] [FloorManager] [FloorManager] DIAG Rack[22,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.537] [FloorManager] [FloorManager] DIAG Rack[18,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.537] [FloorManager] [FloorManager] DIAG Rack[18,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.537] [FloorManager] [FloorManager] DIAG Rack[9,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.537] [FloorManager] [FloorManager] DIAG Rack[9,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.538] [FloorManager] [FloorManager] DIAG Rack[4,0]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.538] [FloorManager] [FloorManager] DIAG Rack[4,0]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.538] [FloorManager] [FloorManager] DIAG Rack[23,4]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.538] [FloorManager] [FloorManager] DIAG Rack[23,4]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.539] [FloorManager] [FloorManager] DIAG Rack[5,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.539] [FloorManager] [FloorManager] DIAG Rack[5,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.539] [FloorManager] [FloorManager] DIAG Rack[14,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.540] [FloorManager] [FloorManager] DIAG Rack[14,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.540] [FloorManager] [FloorManager] DIAG Rack[19,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.540] [FloorManager] [FloorManager] DIAG Rack[19,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.541] [FloorManager] [FloorManager] DIAG Rack[0,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.541] [FloorManager] [FloorManager] DIAG Rack[0,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.541] [FloorManager] [FloorManager] DIAG Rack[5,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.542] [FloorManager] [FloorManager] DIAG Rack[5,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.542] [FloorManager] [FloorManager] DIAG Rack[14,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.542] [FloorManager] [FloorManager] DIAG Rack[14,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.542] [FloorManager] [FloorManager] DIAG Rack[19,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.542] [FloorManager] [FloorManager] DIAG Rack[19,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.543] [FloorManager] [FloorManager] DIAG Rack[9,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.543] [FloorManager] [FloorManager] DIAG Rack[9,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.543] [FloorManager] [FloorManager] DIAG Rack[18,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.544] [FloorManager] [FloorManager] DIAG Rack[18,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.544] [FloorManager] [FloorManager] DIAG Rack[23,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.545] [FloorManager] [FloorManager] DIAG Rack[23,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.545] [FloorManager] [FloorManager] DIAG Rack[4,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.545] [FloorManager] [FloorManager] DIAG Rack[4,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.546] [FloorManager] [FloorManager] DIAG Rack[2,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.546] [FloorManager] [FloorManager] DIAG Rack[2,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.546] [FloorManager] [FloorManager] DIAG Rack[21,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.546] [FloorManager] [FloorManager] DIAG Rack[21,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.548] [FloorManager] [FloorManager] DIAG Rack[7,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.549] [FloorManager] [FloorManager] DIAG Rack[7,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.549] [FloorManager] [FloorManager] DIAG Rack[16,1]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.549] [FloorManager] [FloorManager] DIAG Rack[16,1]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.550] [FloorManager] [FloorManager] DIAG Rack[15,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.550] [FloorManager] [FloorManager] DIAG Rack[15,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.550] [FloorManager] [FloorManager] DIAG Rack[6,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.550] [FloorManager] [FloorManager] DIAG Rack[6,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.551] [FloorManager] [FloorManager] DIAG Rack[20,3]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.551] [FloorManager] [FloorManager] DIAG Rack[20,3]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.551] [FloorManager] [FloorManager] DIAG Rack[15,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.551] [FloorManager] [FloorManager] DIAG Rack[15,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.552] [FloorManager] [FloorManager] DIAG Rack[6,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.552] [FloorManager] [FloorManager] DIAG Rack[6,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.553] [FloorManager] [FloorManager] DIAG Rack[20,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.553] [FloorManager] [FloorManager] DIAG Rack[20,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
+[01:12:09.553] [FloorManager] [FloorManager] DIAG Rack[1,2]: directServers=0 directSwitches=0 directPPs=0 children=8 [Rack_lanberg_47U, AudioSourceEffect (1), RackButton Unmount, RackButton TurnOffPos, Side colider (2), ... +3 more]
+[01:12:09.554] [FloorManager] [FloorManager] DIAG Rack[1,2]: positions.Length=47 (type=Il2CppReferenceArray`1)
