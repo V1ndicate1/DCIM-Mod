@@ -1,0 +1,29 @@
+DCIM Mod — Third-Party Notices
+================================
+
+This project uses the following open-source libraries:
+
+---------------------------------------------------------------------------
+Mono.Cecil
+Copyright (c) Jb Evain
+License: MIT License
+https://github.com/jbevain/cecil
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Harmony
+License: MIT License
+https://github.com/pardeike/Harmony
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+MelonLoader
+License: Apache License 2.0
+https://github.com/LavaGang/MelonLoader
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Il2CppInterop
+License: MIT License
+https://github.com/BepInEx/Il2CppInterop
+---------------------------------------------------------------------------
