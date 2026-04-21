@@ -34,12 +34,21 @@ A MelonLoader mod for **Data Center** that adds a full DCIM (Data Center Infrast
 
 MelonLoader 0.7.2 has a [known bug](https://github.com/LavaGang/MelonLoader/issues/1142) that causes a crash on fresh installs. This affects **all** mods for Data Center, not just DCIM.
 
+**Option A — Automatic fix (recommended, works with any MelonLoader game):**
 1. Close the game
 2. Download the fix from the [FixCoreModule repo](https://github.com/V1ndicate1/FixCoreModule/releases/latest) and extract it
 3. Run `FixCoreModule.exe` — it auto-scans your Steam libraries for affected games
 4. Launch the game — the error should be gone
 
-The exe patches one file (`UnityEngine.CoreModule.dll`) in your local game folder. It makes no network calls and modifies nothing else. Works with any MelonLoader game — [full source and details here](https://github.com/V1ndicate1/FixCoreModule).
+The exe patches one file (`UnityEngine.CoreModule.dll`) in your local game folder. It makes no network calls and modifies nothing else. [Full source and details here](https://github.com/V1ndicate1/FixCoreModule).
+
+**Option B — Manual fix (Data Center only, locked to game version 1.0.47.2):**
+1. Close the game
+2. Download `DCIM_MelonLoader_Fix_1.0.1.zip` from the [latest release](https://github.com/V1ndicate1/DCIM-Mod/releases/latest)
+3. Extract the `MelonLoader` folder directly into your `Data Center` game folder (merge/replace when prompted)
+4. Launch the game
+
+The manual zip contains pre-generated MelonLoader assemblies that skip the broken generation step. These assemblies are output from [MelonLoader](https://github.com/LavaGang/MelonLoader) (Apache 2.0) and [Il2CppInterop](https://github.com/BepInEx/Il2CppInterop) (LGPL-3.0) — no game code or DCIM code is included.
 
 ## Nexus Mods
 
